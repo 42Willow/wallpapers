@@ -88,7 +88,8 @@ def create_readme(directory):
 
                 # Add tags above image
                 readme_content += f"**Tags:** {' '.join(tags)}\n\n"
-                readme_content += f"![{file_name}]({file_path})\n\n"
+                readme_content += f"<img src='{file_path}' title='{file_name}'>\n\n"
+                
 
             # Close the details tag if we are in a subdirectory
             if relative_path != top_level_dir:
