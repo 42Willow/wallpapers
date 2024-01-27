@@ -18,7 +18,7 @@ Inspired by [flick0](https://github.com/flick0/kabegami)
 
 **Tags:** `willow_and_sundew`
 
-![willow_and_sundew](Art/willow_and_sundew.jpeg)
+<img src='Art/willow_and_sundew.jpeg' title='willow_and_sundew'>
 
 </details>
 
@@ -28,15 +28,15 @@ Inspired by [flick0](https://github.com/flick0/kabegami)
 
 **Tags:** `lake`
 
-![lake](Photos/lake.jpg)
+<img src='Photos/lake.jpg' title='lake'>
 
 **Tags:** `mountains`
 
-![mountains](Photos/mountains.jpg)
+<img src='Photos/mountains.jpg' title='mountains'>
 
 **Tags:** `sandstone`
 
-![sandstone](Photos/sandstone.jpg)
+<img src='Photos/sandstone.jpg' title='sandstone'>
 
 </details>
 
@@ -46,19 +46,19 @@ Inspired by [flick0](https://github.com/flick0/kabegami)
 
 **Tags:** `1`
 
-![1](Pixel Art/1.gif)
+<img src='Pixel Art/1.gif' title='1'>
 
 **Tags:** `2`
 
-![2](Pixel Art/2.gif)
+<img src='Pixel Art/2.gif' title='2'>
 
 **Tags:** `README`
 
-![README](Pixel Art/README.md)
+<img src='Pixel Art/README.md' title='README'>
 
 **Tags:** `waterfall`
 
-![waterfall](Pixel Art/waterfall.jpeg)
+<img src='Pixel Art/waterfall.jpeg' title='waterfall'>
 
 </details>
 
@@ -68,107 +68,107 @@ Inspired by [flick0](https://github.com/flick0/kabegami)
 
 **Tags:** `Kurzgesagt` `Asteroid_Miner_1`
 
-![Kurzgesagt-Asteroid_Miner_1](Catppuccin/Frappe/Kurzgesagt-Asteroid_Miner_1.png)
+<img src='Catppuccin/Frappe/Kurzgesagt-Asteroid_Miner_1.png' title='Kurzgesagt-Asteroid_Miner_1'>
 
 **Tags:** `Kurzgesagt` `Asteroid_Miner_2`
 
-![Kurzgesagt-Asteroid_Miner_2](Catppuccin/Frappe/Kurzgesagt-Asteroid_Miner_2.png)
+<img src='Catppuccin/Frappe/Kurzgesagt-Asteroid_Miner_2.png' title='Kurzgesagt-Asteroid_Miner_2'>
 
 **Tags:** `Kurzgesagt` `Asteroids`
 
-![Kurzgesagt-Asteroids](Catppuccin/Frappe/Kurzgesagt-Asteroids.png)
+<img src='Catppuccin/Frappe/Kurzgesagt-Asteroids.png' title='Kurzgesagt-Asteroids'>
 
 **Tags:** `Kurzgesagt` `Baby_Star`
 
-![Kurzgesagt-Baby_Star](Catppuccin/Frappe/Kurzgesagt-Baby_Star.png)
-
-**Tags:** `Kurzgesagt` `Black Hole_1`
-
-![Kurzgesagt-Black Hole_1](Catppuccin/Frappe/Kurzgesagt-Black Hole_1.png)
-
-**Tags:** `Kurzgesagt` `Black Hole_2`
-
-![Kurzgesagt-Black Hole_2](Catppuccin/Frappe/Kurzgesagt-Black Hole_2.png)
-
-**Tags:** `Kurzgesagt` `Cloudy Quasar_1`
-
-![Kurzgesagt-Cloudy Quasar_1](Catppuccin/Frappe/Kurzgesagt-Cloudy Quasar_1.png)
-
-**Tags:** `Kurzgesagt` `Cloudy Quasar_2`
-
-![Kurzgesagt-Cloudy Quasar_2](Catppuccin/Frappe/Kurzgesagt-Cloudy Quasar_2.png)
-
-**Tags:** `Kurzgesagt` `Contemplative Cosmonaut_1`
-
-![Kurzgesagt-Contemplative Cosmonaut_1](Catppuccin/Frappe/Kurzgesagt-Contemplative Cosmonaut_1.png)
-
-**Tags:** `Kurzgesagt` `Contemplative Cosmonaut_2`
-
-![Kurzgesagt-Contemplative Cosmonaut_2](Catppuccin/Frappe/Kurzgesagt-Contemplative Cosmonaut_2.png)
-
-**Tags:** `Kurzgesagt` `Contemplative Cosmonaut_3`
-
-![Kurzgesagt-Contemplative Cosmonaut_3](Catppuccin/Frappe/Kurzgesagt-Contemplative Cosmonaut_3.png)
-
-**Tags:** `Kurzgesagt` `Contemplative Cosmonaut_4`
-
-![Kurzgesagt-Contemplative Cosmonaut_4](Catppuccin/Frappe/Kurzgesagt-Contemplative Cosmonaut_4.png)
+<img src='Catppuccin/Frappe/Kurzgesagt-Baby_Star.png' title='Kurzgesagt-Baby_Star'>
 
 **Tags:** `Kurzgesagt` `Cosmic_Islands`
 
-![Kurzgesagt-Cosmic_Islands](Catppuccin/Frappe/Kurzgesagt-Cosmic_Islands.png)
+<img src='Catppuccin/Frappe/Kurzgesagt-Cosmic_Islands.png' title='Kurzgesagt-Cosmic_Islands'>
 
 **Tags:** `Kurzgesagt` `Fleet`
 
-![Kurzgesagt-Fleet](Catppuccin/Frappe/Kurzgesagt-Fleet.png)
+<img src='Catppuccin/Frappe/Kurzgesagt-Fleet.png' title='Kurzgesagt-Fleet'>
 
 **Tags:** `Kurzgesagt` `Galaxies`
 
-![Kurzgesagt-Galaxies](Catppuccin/Frappe/Kurzgesagt-Galaxies.png)
+<img src='Catppuccin/Frappe/Kurzgesagt-Galaxies.png' title='Kurzgesagt-Galaxies'>
 
 **Tags:** `Kurzgesagt` `Galaxy_1`
 
-![Kurzgesagt-Galaxy_1](Catppuccin/Frappe/Kurzgesagt-Galaxy_1.png)
+<img src='Catppuccin/Frappe/Kurzgesagt-Galaxy_1.png' title='Kurzgesagt-Galaxy_1'>
 
 **Tags:** `Kurzgesagt` `Galaxy_2`
 
-![Kurzgesagt-Galaxy_2](Catppuccin/Frappe/Kurzgesagt-Galaxy_2.png)
+<img src='Catppuccin/Frappe/Kurzgesagt-Galaxy_2.png' title='Kurzgesagt-Galaxy_2'>
 
 **Tags:** `Kurzgesagt` `Galaxy_3`
 
-![Kurzgesagt-Galaxy_3](Catppuccin/Frappe/Kurzgesagt-Galaxy_3.png)
+<img src='Catppuccin/Frappe/Kurzgesagt-Galaxy_3.png' title='Kurzgesagt-Galaxy_3'>
 
 **Tags:** `Kurzgesagt` `Mars`
 
-![Kurzgesagt-Mars](Catppuccin/Frappe/Kurzgesagt-Mars.png)
-
-**Tags:** `Kurzgesagt` `On A Moon`
-
-![Kurzgesagt-On A Moon](Catppuccin/Frappe/Kurzgesagt-On A Moon.png)
+<img src='Catppuccin/Frappe/Kurzgesagt-Mars.png' title='Kurzgesagt-Mars'>
 
 **Tags:** `Kurzgesagt` `Ringed_Earth`
 
-![Kurzgesagt-Ringed_Earth](Catppuccin/Frappe/Kurzgesagt-Ringed_Earth.png)
-
-**Tags:** `Kurzgesagt` `Satellite over Earth`
-
-![Kurzgesagt-Satellite over Earth](Catppuccin/Frappe/Kurzgesagt-Satellite over Earth.png)
-
-**Tags:** `Kurzgesagt` `Solar System`
-
-![Kurzgesagt-Solar System](Catppuccin/Frappe/Kurzgesagt-Solar System.png)
+<img src='Catppuccin/Frappe/Kurzgesagt-Ringed_Earth.png' title='Kurzgesagt-Ringed_Earth'>
 
 **Tags:** `Kurzgesagt` `Stars`
 
-![Kurzgesagt-Stars](Catppuccin/Frappe/Kurzgesagt-Stars.png)
+<img src='Catppuccin/Frappe/Kurzgesagt-Stars.png' title='Kurzgesagt-Stars'>
 
-**Tags:** `Kurzgesagt` `Stellar Phenomenon`
+**Tags:** `Kurzgesagt` `Black_Hole_1`
 
-![Kurzgesagt-Stellar Phenomenon](Catppuccin/Frappe/Kurzgesagt-Stellar Phenomenon.png)
+<img src='Catppuccin/Frappe/Kurzgesagt-Black_Hole_1.png' title='Kurzgesagt-Black_Hole_1'>
 
-**Tags:** `Kurzgesagt` `Unknown Lifeform`
+**Tags:** `Kurzgesagt` `Black_Hole_2`
 
-![Kurzgesagt-Unknown Lifeform](Catppuccin/Frappe/Kurzgesagt-Unknown Lifeform.png)
+<img src='Catppuccin/Frappe/Kurzgesagt-Black_Hole_2.png' title='Kurzgesagt-Black_Hole_2'>
+
+**Tags:** `Kurzgesagt` `Cloudy_Quasar_1`
+
+<img src='Catppuccin/Frappe/Kurzgesagt-Cloudy_Quasar_1.png' title='Kurzgesagt-Cloudy_Quasar_1'>
+
+**Tags:** `Kurzgesagt` `Cloudy_Quasar_2`
+
+<img src='Catppuccin/Frappe/Kurzgesagt-Cloudy_Quasar_2.png' title='Kurzgesagt-Cloudy_Quasar_2'>
+
+**Tags:** `Kurzgesagt` `Contemplative_Cosmonaut_1`
+
+<img src='Catppuccin/Frappe/Kurzgesagt-Contemplative_Cosmonaut_1.png' title='Kurzgesagt-Contemplative_Cosmonaut_1'>
+
+**Tags:** `Kurzgesagt` `Contemplative_Cosmonaut_2`
+
+<img src='Catppuccin/Frappe/Kurzgesagt-Contemplative_Cosmonaut_2.png' title='Kurzgesagt-Contemplative_Cosmonaut_2'>
+
+**Tags:** `Kurzgesagt` `Contemplative_Cosmonaut_3`
+
+<img src='Catppuccin/Frappe/Kurzgesagt-Contemplative_Cosmonaut_3.png' title='Kurzgesagt-Contemplative_Cosmonaut_3'>
+
+**Tags:** `Kurzgesagt` `Contemplative_Cosmonaut_4`
+
+<img src='Catppuccin/Frappe/Kurzgesagt-Contemplative_Cosmonaut_4.png' title='Kurzgesagt-Contemplative_Cosmonaut_4'>
+
+**Tags:** `Kurzgesagt` `On_A_Moon`
+
+<img src='Catppuccin/Frappe/Kurzgesagt-On_A_Moon.png' title='Kurzgesagt-On_A_Moon'>
+
+**Tags:** `Kurzgesagt` `Satellite_over_Earth`
+
+<img src='Catppuccin/Frappe/Kurzgesagt-Satellite_over_Earth.png' title='Kurzgesagt-Satellite_over_Earth'>
+
+**Tags:** `Kurzgesagt` `Solar_System`
+
+<img src='Catppuccin/Frappe/Kurzgesagt-Solar_System.png' title='Kurzgesagt-Solar_System'>
+
+**Tags:** `Kurzgesagt` `Stellar_Phenomenon`
+
+<img src='Catppuccin/Frappe/Kurzgesagt-Stellar_Phenomenon.png' title='Kurzgesagt-Stellar_Phenomenon'>
+
+**Tags:** `Kurzgesagt` `Unknown_Lifeform`
+
+<img src='Catppuccin/Frappe/Kurzgesagt-Unknown_Lifeform.png' title='Kurzgesagt-Unknown_Lifeform'>
 
 </details>
 
@@ -176,107 +176,107 @@ Inspired by [flick0](https://github.com/flick0/kabegami)
 
 **Tags:** `Kurzgesagt` `Asteroid_Miner_1`
 
-![Kurzgesagt-Asteroid_Miner_1](Catppuccin/Latte/Kurzgesagt-Asteroid_Miner_1.png)
+<img src='Catppuccin/Latte/Kurzgesagt-Asteroid_Miner_1.png' title='Kurzgesagt-Asteroid_Miner_1'>
 
 **Tags:** `Kurzgesagt` `Asteroid_Miner_2`
 
-![Kurzgesagt-Asteroid_Miner_2](Catppuccin/Latte/Kurzgesagt-Asteroid_Miner_2.png)
+<img src='Catppuccin/Latte/Kurzgesagt-Asteroid_Miner_2.png' title='Kurzgesagt-Asteroid_Miner_2'>
 
 **Tags:** `Kurzgesagt` `Asteroids`
 
-![Kurzgesagt-Asteroids](Catppuccin/Latte/Kurzgesagt-Asteroids.png)
+<img src='Catppuccin/Latte/Kurzgesagt-Asteroids.png' title='Kurzgesagt-Asteroids'>
 
 **Tags:** `Kurzgesagt` `Baby_Star`
 
-![Kurzgesagt-Baby_Star](Catppuccin/Latte/Kurzgesagt-Baby_Star.png)
-
-**Tags:** `Kurzgesagt` `Black Hole_1`
-
-![Kurzgesagt-Black Hole_1](Catppuccin/Latte/Kurzgesagt-Black Hole_1.png)
-
-**Tags:** `Kurzgesagt` `Black Hole_2`
-
-![Kurzgesagt-Black Hole_2](Catppuccin/Latte/Kurzgesagt-Black Hole_2.png)
-
-**Tags:** `Kurzgesagt` `Cloudy Quasar_1`
-
-![Kurzgesagt-Cloudy Quasar_1](Catppuccin/Latte/Kurzgesagt-Cloudy Quasar_1.png)
-
-**Tags:** `Kurzgesagt` `Cloudy Quasar_2`
-
-![Kurzgesagt-Cloudy Quasar_2](Catppuccin/Latte/Kurzgesagt-Cloudy Quasar_2.png)
-
-**Tags:** `Kurzgesagt` `Contemplative Cosmonaut_1`
-
-![Kurzgesagt-Contemplative Cosmonaut_1](Catppuccin/Latte/Kurzgesagt-Contemplative Cosmonaut_1.png)
-
-**Tags:** `Kurzgesagt` `Contemplative Cosmonaut_2`
-
-![Kurzgesagt-Contemplative Cosmonaut_2](Catppuccin/Latte/Kurzgesagt-Contemplative Cosmonaut_2.png)
-
-**Tags:** `Kurzgesagt` `Contemplative Cosmonaut_3`
-
-![Kurzgesagt-Contemplative Cosmonaut_3](Catppuccin/Latte/Kurzgesagt-Contemplative Cosmonaut_3.png)
-
-**Tags:** `Kurzgesagt` `Contemplative Cosmonaut_4`
-
-![Kurzgesagt-Contemplative Cosmonaut_4](Catppuccin/Latte/Kurzgesagt-Contemplative Cosmonaut_4.png)
+<img src='Catppuccin/Latte/Kurzgesagt-Baby_Star.png' title='Kurzgesagt-Baby_Star'>
 
 **Tags:** `Kurzgesagt` `Cosmic_Islands`
 
-![Kurzgesagt-Cosmic_Islands](Catppuccin/Latte/Kurzgesagt-Cosmic_Islands.png)
+<img src='Catppuccin/Latte/Kurzgesagt-Cosmic_Islands.png' title='Kurzgesagt-Cosmic_Islands'>
 
 **Tags:** `Kurzgesagt` `Fleet`
 
-![Kurzgesagt-Fleet](Catppuccin/Latte/Kurzgesagt-Fleet.png)
+<img src='Catppuccin/Latte/Kurzgesagt-Fleet.png' title='Kurzgesagt-Fleet'>
 
 **Tags:** `Kurzgesagt` `Galaxies`
 
-![Kurzgesagt-Galaxies](Catppuccin/Latte/Kurzgesagt-Galaxies.png)
+<img src='Catppuccin/Latte/Kurzgesagt-Galaxies.png' title='Kurzgesagt-Galaxies'>
 
 **Tags:** `Kurzgesagt` `Galaxy_1`
 
-![Kurzgesagt-Galaxy_1](Catppuccin/Latte/Kurzgesagt-Galaxy_1.png)
+<img src='Catppuccin/Latte/Kurzgesagt-Galaxy_1.png' title='Kurzgesagt-Galaxy_1'>
 
 **Tags:** `Kurzgesagt` `Galaxy_2`
 
-![Kurzgesagt-Galaxy_2](Catppuccin/Latte/Kurzgesagt-Galaxy_2.png)
+<img src='Catppuccin/Latte/Kurzgesagt-Galaxy_2.png' title='Kurzgesagt-Galaxy_2'>
 
 **Tags:** `Kurzgesagt` `Galaxy_3`
 
-![Kurzgesagt-Galaxy_3](Catppuccin/Latte/Kurzgesagt-Galaxy_3.png)
+<img src='Catppuccin/Latte/Kurzgesagt-Galaxy_3.png' title='Kurzgesagt-Galaxy_3'>
 
 **Tags:** `Kurzgesagt` `Mars`
 
-![Kurzgesagt-Mars](Catppuccin/Latte/Kurzgesagt-Mars.png)
-
-**Tags:** `Kurzgesagt` `On A Moon`
-
-![Kurzgesagt-On A Moon](Catppuccin/Latte/Kurzgesagt-On A Moon.png)
+<img src='Catppuccin/Latte/Kurzgesagt-Mars.png' title='Kurzgesagt-Mars'>
 
 **Tags:** `Kurzgesagt` `Ringed_Earth`
 
-![Kurzgesagt-Ringed_Earth](Catppuccin/Latte/Kurzgesagt-Ringed_Earth.png)
-
-**Tags:** `Kurzgesagt` `Satellite over Earth`
-
-![Kurzgesagt-Satellite over Earth](Catppuccin/Latte/Kurzgesagt-Satellite over Earth.png)
-
-**Tags:** `Kurzgesagt` `Solar System`
-
-![Kurzgesagt-Solar System](Catppuccin/Latte/Kurzgesagt-Solar System.png)
+<img src='Catppuccin/Latte/Kurzgesagt-Ringed_Earth.png' title='Kurzgesagt-Ringed_Earth'>
 
 **Tags:** `Kurzgesagt` `Stars`
 
-![Kurzgesagt-Stars](Catppuccin/Latte/Kurzgesagt-Stars.png)
+<img src='Catppuccin/Latte/Kurzgesagt-Stars.png' title='Kurzgesagt-Stars'>
 
-**Tags:** `Kurzgesagt` `Stellar Phenomenon`
+**Tags:** `Kurzgesagt` `Black_Hole_1`
 
-![Kurzgesagt-Stellar Phenomenon](Catppuccin/Latte/Kurzgesagt-Stellar Phenomenon.png)
+<img src='Catppuccin/Latte/Kurzgesagt-Black_Hole_1.png' title='Kurzgesagt-Black_Hole_1'>
 
-**Tags:** `Kurzgesagt` `Unknown Lifeform`
+**Tags:** `Kurzgesagt` `Black_Hole_2`
 
-![Kurzgesagt-Unknown Lifeform](Catppuccin/Latte/Kurzgesagt-Unknown Lifeform.png)
+<img src='Catppuccin/Latte/Kurzgesagt-Black_Hole_2.png' title='Kurzgesagt-Black_Hole_2'>
+
+**Tags:** `Kurzgesagt` `Cloudy_Quasar_1`
+
+<img src='Catppuccin/Latte/Kurzgesagt-Cloudy_Quasar_1.png' title='Kurzgesagt-Cloudy_Quasar_1'>
+
+**Tags:** `Kurzgesagt` `Cloudy_Quasar_2`
+
+<img src='Catppuccin/Latte/Kurzgesagt-Cloudy_Quasar_2.png' title='Kurzgesagt-Cloudy_Quasar_2'>
+
+**Tags:** `Kurzgesagt` `Contemplative_Cosmonaut_1`
+
+<img src='Catppuccin/Latte/Kurzgesagt-Contemplative_Cosmonaut_1.png' title='Kurzgesagt-Contemplative_Cosmonaut_1'>
+
+**Tags:** `Kurzgesagt` `Contemplative_Cosmonaut_2`
+
+<img src='Catppuccin/Latte/Kurzgesagt-Contemplative_Cosmonaut_2.png' title='Kurzgesagt-Contemplative_Cosmonaut_2'>
+
+**Tags:** `Kurzgesagt` `Contemplative_Cosmonaut_3`
+
+<img src='Catppuccin/Latte/Kurzgesagt-Contemplative_Cosmonaut_3.png' title='Kurzgesagt-Contemplative_Cosmonaut_3'>
+
+**Tags:** `Kurzgesagt` `Contemplative_Cosmonaut_4`
+
+<img src='Catppuccin/Latte/Kurzgesagt-Contemplative_Cosmonaut_4.png' title='Kurzgesagt-Contemplative_Cosmonaut_4'>
+
+**Tags:** `Kurzgesagt` `On_A_Moon`
+
+<img src='Catppuccin/Latte/Kurzgesagt-On_A_Moon.png' title='Kurzgesagt-On_A_Moon'>
+
+**Tags:** `Kurzgesagt` `Satellite_over_Earth`
+
+<img src='Catppuccin/Latte/Kurzgesagt-Satellite_over_Earth.png' title='Kurzgesagt-Satellite_over_Earth'>
+
+**Tags:** `Kurzgesagt` `Solar_System`
+
+<img src='Catppuccin/Latte/Kurzgesagt-Solar_System.png' title='Kurzgesagt-Solar_System'>
+
+**Tags:** `Kurzgesagt` `Stellar_Phenomenon`
+
+<img src='Catppuccin/Latte/Kurzgesagt-Stellar_Phenomenon.png' title='Kurzgesagt-Stellar_Phenomenon'>
+
+**Tags:** `Kurzgesagt` `Unknown_Lifeform`
+
+<img src='Catppuccin/Latte/Kurzgesagt-Unknown_Lifeform.png' title='Kurzgesagt-Unknown_Lifeform'>
 
 </details>
 
@@ -284,107 +284,107 @@ Inspired by [flick0](https://github.com/flick0/kabegami)
 
 **Tags:** `Kurzgesagt` `Asteroid_Miner_1`
 
-![Kurzgesagt-Asteroid_Miner_1](Catppuccin/Macchiato/Kurzgesagt-Asteroid_Miner_1.png)
+<img src='Catppuccin/Macchiato/Kurzgesagt-Asteroid_Miner_1.png' title='Kurzgesagt-Asteroid_Miner_1'>
 
 **Tags:** `Kurzgesagt` `Asteroid_Miner_2`
 
-![Kurzgesagt-Asteroid_Miner_2](Catppuccin/Macchiato/Kurzgesagt-Asteroid_Miner_2.png)
+<img src='Catppuccin/Macchiato/Kurzgesagt-Asteroid_Miner_2.png' title='Kurzgesagt-Asteroid_Miner_2'>
 
 **Tags:** `Kurzgesagt` `Asteroids`
 
-![Kurzgesagt-Asteroids](Catppuccin/Macchiato/Kurzgesagt-Asteroids.png)
+<img src='Catppuccin/Macchiato/Kurzgesagt-Asteroids.png' title='Kurzgesagt-Asteroids'>
 
 **Tags:** `Kurzgesagt` `Baby_Star`
 
-![Kurzgesagt-Baby_Star](Catppuccin/Macchiato/Kurzgesagt-Baby_Star.png)
-
-**Tags:** `Kurzgesagt` `Black Hole_1`
-
-![Kurzgesagt-Black Hole_1](Catppuccin/Macchiato/Kurzgesagt-Black Hole_1.png)
-
-**Tags:** `Kurzgesagt` `Black Hole_2`
-
-![Kurzgesagt-Black Hole_2](Catppuccin/Macchiato/Kurzgesagt-Black Hole_2.png)
-
-**Tags:** `Kurzgesagt` `Cloudy Quasar_1`
-
-![Kurzgesagt-Cloudy Quasar_1](Catppuccin/Macchiato/Kurzgesagt-Cloudy Quasar_1.png)
-
-**Tags:** `Kurzgesagt` `Cloudy Quasar_2`
-
-![Kurzgesagt-Cloudy Quasar_2](Catppuccin/Macchiato/Kurzgesagt-Cloudy Quasar_2.png)
-
-**Tags:** `Kurzgesagt` `Contemplative Cosmonaut_1`
-
-![Kurzgesagt-Contemplative Cosmonaut_1](Catppuccin/Macchiato/Kurzgesagt-Contemplative Cosmonaut_1.png)
-
-**Tags:** `Kurzgesagt` `Contemplative Cosmonaut_2`
-
-![Kurzgesagt-Contemplative Cosmonaut_2](Catppuccin/Macchiato/Kurzgesagt-Contemplative Cosmonaut_2.png)
-
-**Tags:** `Kurzgesagt` `Contemplative Cosmonaut_3`
-
-![Kurzgesagt-Contemplative Cosmonaut_3](Catppuccin/Macchiato/Kurzgesagt-Contemplative Cosmonaut_3.png)
-
-**Tags:** `Kurzgesagt` `Contemplative Cosmonaut_4`
-
-![Kurzgesagt-Contemplative Cosmonaut_4](Catppuccin/Macchiato/Kurzgesagt-Contemplative Cosmonaut_4.png)
+<img src='Catppuccin/Macchiato/Kurzgesagt-Baby_Star.png' title='Kurzgesagt-Baby_Star'>
 
 **Tags:** `Kurzgesagt` `Cosmic_Islands`
 
-![Kurzgesagt-Cosmic_Islands](Catppuccin/Macchiato/Kurzgesagt-Cosmic_Islands.png)
+<img src='Catppuccin/Macchiato/Kurzgesagt-Cosmic_Islands.png' title='Kurzgesagt-Cosmic_Islands'>
 
 **Tags:** `Kurzgesagt` `Fleet`
 
-![Kurzgesagt-Fleet](Catppuccin/Macchiato/Kurzgesagt-Fleet.png)
+<img src='Catppuccin/Macchiato/Kurzgesagt-Fleet.png' title='Kurzgesagt-Fleet'>
 
 **Tags:** `Kurzgesagt` `Galaxies`
 
-![Kurzgesagt-Galaxies](Catppuccin/Macchiato/Kurzgesagt-Galaxies.png)
+<img src='Catppuccin/Macchiato/Kurzgesagt-Galaxies.png' title='Kurzgesagt-Galaxies'>
 
 **Tags:** `Kurzgesagt` `Galaxy_1`
 
-![Kurzgesagt-Galaxy_1](Catppuccin/Macchiato/Kurzgesagt-Galaxy_1.png)
+<img src='Catppuccin/Macchiato/Kurzgesagt-Galaxy_1.png' title='Kurzgesagt-Galaxy_1'>
 
 **Tags:** `Kurzgesagt` `Galaxy_2`
 
-![Kurzgesagt-Galaxy_2](Catppuccin/Macchiato/Kurzgesagt-Galaxy_2.png)
+<img src='Catppuccin/Macchiato/Kurzgesagt-Galaxy_2.png' title='Kurzgesagt-Galaxy_2'>
 
 **Tags:** `Kurzgesagt` `Galaxy_3`
 
-![Kurzgesagt-Galaxy_3](Catppuccin/Macchiato/Kurzgesagt-Galaxy_3.png)
+<img src='Catppuccin/Macchiato/Kurzgesagt-Galaxy_3.png' title='Kurzgesagt-Galaxy_3'>
 
 **Tags:** `Kurzgesagt` `Mars`
 
-![Kurzgesagt-Mars](Catppuccin/Macchiato/Kurzgesagt-Mars.png)
-
-**Tags:** `Kurzgesagt` `On A Moon`
-
-![Kurzgesagt-On A Moon](Catppuccin/Macchiato/Kurzgesagt-On A Moon.png)
+<img src='Catppuccin/Macchiato/Kurzgesagt-Mars.png' title='Kurzgesagt-Mars'>
 
 **Tags:** `Kurzgesagt` `Ringed_Earth.jpg`
 
-![Kurzgesagt-Ringed_Earth.jpg](Catppuccin/Macchiato/Kurzgesagt-Ringed_Earth.jpg.jpg)
-
-**Tags:** `Kurzgesagt` `Satellite over Earth`
-
-![Kurzgesagt-Satellite over Earth](Catppuccin/Macchiato/Kurzgesagt-Satellite over Earth.png)
-
-**Tags:** `Kurzgesagt` `Solar System`
-
-![Kurzgesagt-Solar System](Catppuccin/Macchiato/Kurzgesagt-Solar System.png)
+<img src='Catppuccin/Macchiato/Kurzgesagt-Ringed_Earth.jpg.jpg' title='Kurzgesagt-Ringed_Earth.jpg'>
 
 **Tags:** `Kurzgesagt` `Stars`
 
-![Kurzgesagt-Stars](Catppuccin/Macchiato/Kurzgesagt-Stars.png)
+<img src='Catppuccin/Macchiato/Kurzgesagt-Stars.png' title='Kurzgesagt-Stars'>
 
-**Tags:** `Kurzgesagt` `Stellar Phenomenon`
+**Tags:** `Kurzgesagt` `Black_Hole_1`
 
-![Kurzgesagt-Stellar Phenomenon](Catppuccin/Macchiato/Kurzgesagt-Stellar Phenomenon.png)
+<img src='Catppuccin/Macchiato/Kurzgesagt-Black_Hole_1.png' title='Kurzgesagt-Black_Hole_1'>
 
-**Tags:** `Kurzgesagt` `Unknown Lifeform`
+**Tags:** `Kurzgesagt` `Black_Hole_2`
 
-![Kurzgesagt-Unknown Lifeform](Catppuccin/Macchiato/Kurzgesagt-Unknown Lifeform.png)
+<img src='Catppuccin/Macchiato/Kurzgesagt-Black_Hole_2.png' title='Kurzgesagt-Black_Hole_2'>
+
+**Tags:** `Kurzgesagt` `Cloudy_Quasar_1`
+
+<img src='Catppuccin/Macchiato/Kurzgesagt-Cloudy_Quasar_1.png' title='Kurzgesagt-Cloudy_Quasar_1'>
+
+**Tags:** `Kurzgesagt` `Cloudy_Quasar_2`
+
+<img src='Catppuccin/Macchiato/Kurzgesagt-Cloudy_Quasar_2.png' title='Kurzgesagt-Cloudy_Quasar_2'>
+
+**Tags:** `Kurzgesagt` `Contemplative_Cosmonaut_1`
+
+<img src='Catppuccin/Macchiato/Kurzgesagt-Contemplative_Cosmonaut_1.png' title='Kurzgesagt-Contemplative_Cosmonaut_1'>
+
+**Tags:** `Kurzgesagt` `Contemplative_Cosmonaut_2`
+
+<img src='Catppuccin/Macchiato/Kurzgesagt-Contemplative_Cosmonaut_2.png' title='Kurzgesagt-Contemplative_Cosmonaut_2'>
+
+**Tags:** `Kurzgesagt` `Contemplative_Cosmonaut_3`
+
+<img src='Catppuccin/Macchiato/Kurzgesagt-Contemplative_Cosmonaut_3.png' title='Kurzgesagt-Contemplative_Cosmonaut_3'>
+
+**Tags:** `Kurzgesagt` `Contemplative_Cosmonaut_4`
+
+<img src='Catppuccin/Macchiato/Kurzgesagt-Contemplative_Cosmonaut_4.png' title='Kurzgesagt-Contemplative_Cosmonaut_4'>
+
+**Tags:** `Kurzgesagt` `On_A_Moon`
+
+<img src='Catppuccin/Macchiato/Kurzgesagt-On_A_Moon.png' title='Kurzgesagt-On_A_Moon'>
+
+**Tags:** `Kurzgesagt` `Satellite_over_Earth`
+
+<img src='Catppuccin/Macchiato/Kurzgesagt-Satellite_over_Earth.png' title='Kurzgesagt-Satellite_over_Earth'>
+
+**Tags:** `Kurzgesagt` `Solar_System`
+
+<img src='Catppuccin/Macchiato/Kurzgesagt-Solar_System.png' title='Kurzgesagt-Solar_System'>
+
+**Tags:** `Kurzgesagt` `Stellar_Phenomenon`
+
+<img src='Catppuccin/Macchiato/Kurzgesagt-Stellar_Phenomenon.png' title='Kurzgesagt-Stellar_Phenomenon'>
+
+**Tags:** `Kurzgesagt` `Unknown_Lifeform`
+
+<img src='Catppuccin/Macchiato/Kurzgesagt-Unknown_Lifeform.png' title='Kurzgesagt-Unknown_Lifeform'>
 
 </details>
 
@@ -392,107 +392,107 @@ Inspired by [flick0](https://github.com/flick0/kabegami)
 
 **Tags:** `Kurzgesagt` `Asteroid_Miner_1`
 
-![Kurzgesagt-Asteroid_Miner_1](Catppuccin/Mocha/Kurzgesagt-Asteroid_Miner_1.png)
+<img src='Catppuccin/Mocha/Kurzgesagt-Asteroid_Miner_1.png' title='Kurzgesagt-Asteroid_Miner_1'>
 
 **Tags:** `Kurzgesagt` `Asteroid_Miner_2`
 
-![Kurzgesagt-Asteroid_Miner_2](Catppuccin/Mocha/Kurzgesagt-Asteroid_Miner_2.png)
+<img src='Catppuccin/Mocha/Kurzgesagt-Asteroid_Miner_2.png' title='Kurzgesagt-Asteroid_Miner_2'>
 
 **Tags:** `Kurzgesagt` `Asteroids`
 
-![Kurzgesagt-Asteroids](Catppuccin/Mocha/Kurzgesagt-Asteroids.png)
+<img src='Catppuccin/Mocha/Kurzgesagt-Asteroids.png' title='Kurzgesagt-Asteroids'>
 
 **Tags:** `Kurzgesagt` `Baby_Star`
 
-![Kurzgesagt-Baby_Star](Catppuccin/Mocha/Kurzgesagt-Baby_Star.png)
-
-**Tags:** `Kurzgesagt` `Black Hole_1`
-
-![Kurzgesagt-Black Hole_1](Catppuccin/Mocha/Kurzgesagt-Black Hole_1.png)
-
-**Tags:** `Kurzgesagt` `Black Hole_2`
-
-![Kurzgesagt-Black Hole_2](Catppuccin/Mocha/Kurzgesagt-Black Hole_2.png)
-
-**Tags:** `Kurzgesagt` `Cloudy Quasar_1`
-
-![Kurzgesagt-Cloudy Quasar_1](Catppuccin/Mocha/Kurzgesagt-Cloudy Quasar_1.png)
-
-**Tags:** `Kurzgesagt` `Cloudy Quasar_2`
-
-![Kurzgesagt-Cloudy Quasar_2](Catppuccin/Mocha/Kurzgesagt-Cloudy Quasar_2.png)
-
-**Tags:** `Kurzgesagt` `Contemplative Cosmonaut_1`
-
-![Kurzgesagt-Contemplative Cosmonaut_1](Catppuccin/Mocha/Kurzgesagt-Contemplative Cosmonaut_1.png)
-
-**Tags:** `Kurzgesagt` `Contemplative Cosmonaut_2`
-
-![Kurzgesagt-Contemplative Cosmonaut_2](Catppuccin/Mocha/Kurzgesagt-Contemplative Cosmonaut_2.png)
-
-**Tags:** `Kurzgesagt` `Contemplative Cosmonaut_3`
-
-![Kurzgesagt-Contemplative Cosmonaut_3](Catppuccin/Mocha/Kurzgesagt-Contemplative Cosmonaut_3.png)
-
-**Tags:** `Kurzgesagt` `Contemplative Cosmonaut_4`
-
-![Kurzgesagt-Contemplative Cosmonaut_4](Catppuccin/Mocha/Kurzgesagt-Contemplative Cosmonaut_4.png)
+<img src='Catppuccin/Mocha/Kurzgesagt-Baby_Star.png' title='Kurzgesagt-Baby_Star'>
 
 **Tags:** `Kurzgesagt` `Cosmic_Islands`
 
-![Kurzgesagt-Cosmic_Islands](Catppuccin/Mocha/Kurzgesagt-Cosmic_Islands.png)
+<img src='Catppuccin/Mocha/Kurzgesagt-Cosmic_Islands.png' title='Kurzgesagt-Cosmic_Islands'>
 
 **Tags:** `Kurzgesagt` `Fleet`
 
-![Kurzgesagt-Fleet](Catppuccin/Mocha/Kurzgesagt-Fleet.png)
+<img src='Catppuccin/Mocha/Kurzgesagt-Fleet.png' title='Kurzgesagt-Fleet'>
 
 **Tags:** `Kurzgesagt` `Galaxies`
 
-![Kurzgesagt-Galaxies](Catppuccin/Mocha/Kurzgesagt-Galaxies.png)
+<img src='Catppuccin/Mocha/Kurzgesagt-Galaxies.png' title='Kurzgesagt-Galaxies'>
 
 **Tags:** `Kurzgesagt` `Galaxy_1`
 
-![Kurzgesagt-Galaxy_1](Catppuccin/Mocha/Kurzgesagt-Galaxy_1.png)
+<img src='Catppuccin/Mocha/Kurzgesagt-Galaxy_1.png' title='Kurzgesagt-Galaxy_1'>
 
 **Tags:** `Kurzgesagt` `Galaxy_2`
 
-![Kurzgesagt-Galaxy_2](Catppuccin/Mocha/Kurzgesagt-Galaxy_2.png)
+<img src='Catppuccin/Mocha/Kurzgesagt-Galaxy_2.png' title='Kurzgesagt-Galaxy_2'>
 
 **Tags:** `Kurzgesagt` `Galaxy_3`
 
-![Kurzgesagt-Galaxy_3](Catppuccin/Mocha/Kurzgesagt-Galaxy_3.png)
+<img src='Catppuccin/Mocha/Kurzgesagt-Galaxy_3.png' title='Kurzgesagt-Galaxy_3'>
 
 **Tags:** `Kurzgesagt` `Mars`
 
-![Kurzgesagt-Mars](Catppuccin/Mocha/Kurzgesagt-Mars.png)
-
-**Tags:** `Kurzgesagt` `On A Moon`
-
-![Kurzgesagt-On A Moon](Catppuccin/Mocha/Kurzgesagt-On A Moon.png)
+<img src='Catppuccin/Mocha/Kurzgesagt-Mars.png' title='Kurzgesagt-Mars'>
 
 **Tags:** `Kurzgesagt` `Ringed_Earth.jpg`
 
-![Kurzgesagt-Ringed_Earth.jpg](Catppuccin/Mocha/Kurzgesagt-Ringed_Earth.jpg.jpg)
-
-**Tags:** `Kurzgesagt` `Satellite over Earth`
-
-![Kurzgesagt-Satellite over Earth](Catppuccin/Mocha/Kurzgesagt-Satellite over Earth.png)
-
-**Tags:** `Kurzgesagt` `Solar System`
-
-![Kurzgesagt-Solar System](Catppuccin/Mocha/Kurzgesagt-Solar System.png)
+<img src='Catppuccin/Mocha/Kurzgesagt-Ringed_Earth.jpg.jpg' title='Kurzgesagt-Ringed_Earth.jpg'>
 
 **Tags:** `Kurzgesagt` `Stars`
 
-![Kurzgesagt-Stars](Catppuccin/Mocha/Kurzgesagt-Stars.png)
+<img src='Catppuccin/Mocha/Kurzgesagt-Stars.png' title='Kurzgesagt-Stars'>
 
-**Tags:** `Kurzgesagt` `Stellar Phenomenon`
+**Tags:** `Kurzgesagt` `Black_Hole_1`
 
-![Kurzgesagt-Stellar Phenomenon](Catppuccin/Mocha/Kurzgesagt-Stellar Phenomenon.png)
+<img src='Catppuccin/Mocha/Kurzgesagt-Black_Hole_1.png' title='Kurzgesagt-Black_Hole_1'>
 
-**Tags:** `Kurzgesagt` `Unknown Lifeform`
+**Tags:** `Kurzgesagt` `Black_Hole_2`
 
-![Kurzgesagt-Unknown Lifeform](Catppuccin/Mocha/Kurzgesagt-Unknown Lifeform.png)
+<img src='Catppuccin/Mocha/Kurzgesagt-Black_Hole_2.png' title='Kurzgesagt-Black_Hole_2'>
+
+**Tags:** `Kurzgesagt` `Cloudy_Quasar_1`
+
+<img src='Catppuccin/Mocha/Kurzgesagt-Cloudy_Quasar_1.png' title='Kurzgesagt-Cloudy_Quasar_1'>
+
+**Tags:** `Kurzgesagt` `Cloudy_Quasar_2`
+
+<img src='Catppuccin/Mocha/Kurzgesagt-Cloudy_Quasar_2.png' title='Kurzgesagt-Cloudy_Quasar_2'>
+
+**Tags:** `Kurzgesagt` `Contemplative_Cosmonaut_1`
+
+<img src='Catppuccin/Mocha/Kurzgesagt-Contemplative_Cosmonaut_1.png' title='Kurzgesagt-Contemplative_Cosmonaut_1'>
+
+**Tags:** `Kurzgesagt` `Contemplative_Cosmonaut_2`
+
+<img src='Catppuccin/Mocha/Kurzgesagt-Contemplative_Cosmonaut_2.png' title='Kurzgesagt-Contemplative_Cosmonaut_2'>
+
+**Tags:** `Kurzgesagt` `Contemplative_Cosmonaut_3`
+
+<img src='Catppuccin/Mocha/Kurzgesagt-Contemplative_Cosmonaut_3.png' title='Kurzgesagt-Contemplative_Cosmonaut_3'>
+
+**Tags:** `Kurzgesagt` `Contemplative_Cosmonaut_4`
+
+<img src='Catppuccin/Mocha/Kurzgesagt-Contemplative_Cosmonaut_4.png' title='Kurzgesagt-Contemplative_Cosmonaut_4'>
+
+**Tags:** `Kurzgesagt` `On_A_Moon`
+
+<img src='Catppuccin/Mocha/Kurzgesagt-On_A_Moon.png' title='Kurzgesagt-On_A_Moon'>
+
+**Tags:** `Kurzgesagt` `Satellite_over_Earth`
+
+<img src='Catppuccin/Mocha/Kurzgesagt-Satellite_over_Earth.png' title='Kurzgesagt-Satellite_over_Earth'>
+
+**Tags:** `Kurzgesagt` `Solar_System`
+
+<img src='Catppuccin/Mocha/Kurzgesagt-Solar_System.png' title='Kurzgesagt-Solar_System'>
+
+**Tags:** `Kurzgesagt` `Stellar_Phenomenon`
+
+<img src='Catppuccin/Mocha/Kurzgesagt-Stellar_Phenomenon.png' title='Kurzgesagt-Stellar_Phenomenon'>
+
+**Tags:** `Kurzgesagt` `Unknown_Lifeform`
+
+<img src='Catppuccin/Mocha/Kurzgesagt-Unknown_Lifeform.png' title='Kurzgesagt-Unknown_Lifeform'>
 
 </details>
 
@@ -504,107 +504,107 @@ Inspired by [flick0](https://github.com/flick0/kabegami)
 
 **Tags:** `Kurzgesagt` `Asteroid_Miner_1`
 
-![Kurzgesagt-Asteroid_Miner_1](Unthemed/Kurzgesagt/Kurzgesagt-Asteroid_Miner_1.png)
+<img src='Unthemed/Kurzgesagt/Kurzgesagt-Asteroid_Miner_1.png' title='Kurzgesagt-Asteroid_Miner_1'>
 
 **Tags:** `Kurzgesagt` `Asteroid_Miner_2`
 
-![Kurzgesagt-Asteroid_Miner_2](Unthemed/Kurzgesagt/Kurzgesagt-Asteroid_Miner_2.png)
+<img src='Unthemed/Kurzgesagt/Kurzgesagt-Asteroid_Miner_2.png' title='Kurzgesagt-Asteroid_Miner_2'>
 
 **Tags:** `Kurzgesagt` `Asteroids`
 
-![Kurzgesagt-Asteroids](Unthemed/Kurzgesagt/Kurzgesagt-Asteroids.png)
+<img src='Unthemed/Kurzgesagt/Kurzgesagt-Asteroids.png' title='Kurzgesagt-Asteroids'>
 
 **Tags:** `Kurzgesagt` `Baby_Star`
 
-![Kurzgesagt-Baby_Star](Unthemed/Kurzgesagt/Kurzgesagt-Baby_Star.png)
+<img src='Unthemed/Kurzgesagt/Kurzgesagt-Baby_Star.png' title='Kurzgesagt-Baby_Star'>
 
 **Tags:** `Kurzgesagt` `Black Hole_1`
 
-![Kurzgesagt-Black Hole_1](Unthemed/Kurzgesagt/Kurzgesagt-Black Hole_1.png)
+<img src='Unthemed/Kurzgesagt/Kurzgesagt-Black Hole_1.png' title='Kurzgesagt-Black Hole_1'>
 
 **Tags:** `Kurzgesagt` `Black Hole_2`
 
-![Kurzgesagt-Black Hole_2](Unthemed/Kurzgesagt/Kurzgesagt-Black Hole_2.png)
+<img src='Unthemed/Kurzgesagt/Kurzgesagt-Black Hole_2.png' title='Kurzgesagt-Black Hole_2'>
 
 **Tags:** `Kurzgesagt` `Cloudy Quasar_1`
 
-![Kurzgesagt-Cloudy Quasar_1](Unthemed/Kurzgesagt/Kurzgesagt-Cloudy Quasar_1.png)
+<img src='Unthemed/Kurzgesagt/Kurzgesagt-Cloudy Quasar_1.png' title='Kurzgesagt-Cloudy Quasar_1'>
 
 **Tags:** `Kurzgesagt` `Cloudy Quasar_2`
 
-![Kurzgesagt-Cloudy Quasar_2](Unthemed/Kurzgesagt/Kurzgesagt-Cloudy Quasar_2.png)
+<img src='Unthemed/Kurzgesagt/Kurzgesagt-Cloudy Quasar_2.png' title='Kurzgesagt-Cloudy Quasar_2'>
 
 **Tags:** `Kurzgesagt` `Contemplative Cosmonaut_1`
 
-![Kurzgesagt-Contemplative Cosmonaut_1](Unthemed/Kurzgesagt/Kurzgesagt-Contemplative Cosmonaut_1.png)
+<img src='Unthemed/Kurzgesagt/Kurzgesagt-Contemplative Cosmonaut_1.png' title='Kurzgesagt-Contemplative Cosmonaut_1'>
 
 **Tags:** `Kurzgesagt` `Contemplative Cosmonaut_2`
 
-![Kurzgesagt-Contemplative Cosmonaut_2](Unthemed/Kurzgesagt/Kurzgesagt-Contemplative Cosmonaut_2.png)
+<img src='Unthemed/Kurzgesagt/Kurzgesagt-Contemplative Cosmonaut_2.png' title='Kurzgesagt-Contemplative Cosmonaut_2'>
 
 **Tags:** `Kurzgesagt` `Contemplative Cosmonaut_3`
 
-![Kurzgesagt-Contemplative Cosmonaut_3](Unthemed/Kurzgesagt/Kurzgesagt-Contemplative Cosmonaut_3.png)
+<img src='Unthemed/Kurzgesagt/Kurzgesagt-Contemplative Cosmonaut_3.png' title='Kurzgesagt-Contemplative Cosmonaut_3'>
 
 **Tags:** `Kurzgesagt` `Contemplative Cosmonaut_4`
 
-![Kurzgesagt-Contemplative Cosmonaut_4](Unthemed/Kurzgesagt/Kurzgesagt-Contemplative Cosmonaut_4.png)
+<img src='Unthemed/Kurzgesagt/Kurzgesagt-Contemplative Cosmonaut_4.png' title='Kurzgesagt-Contemplative Cosmonaut_4'>
 
 **Tags:** `Kurzgesagt` `Cosmic_Islands`
 
-![Kurzgesagt-Cosmic_Islands](Unthemed/Kurzgesagt/Kurzgesagt-Cosmic_Islands.png)
+<img src='Unthemed/Kurzgesagt/Kurzgesagt-Cosmic_Islands.png' title='Kurzgesagt-Cosmic_Islands'>
 
 **Tags:** `Kurzgesagt` `Fleet`
 
-![Kurzgesagt-Fleet](Unthemed/Kurzgesagt/Kurzgesagt-Fleet.png)
+<img src='Unthemed/Kurzgesagt/Kurzgesagt-Fleet.png' title='Kurzgesagt-Fleet'>
 
 **Tags:** `Kurzgesagt` `Galaxies`
 
-![Kurzgesagt-Galaxies](Unthemed/Kurzgesagt/Kurzgesagt-Galaxies.png)
+<img src='Unthemed/Kurzgesagt/Kurzgesagt-Galaxies.png' title='Kurzgesagt-Galaxies'>
 
 **Tags:** `Kurzgesagt` `Galaxy_1`
 
-![Kurzgesagt-Galaxy_1](Unthemed/Kurzgesagt/Kurzgesagt-Galaxy_1.png)
+<img src='Unthemed/Kurzgesagt/Kurzgesagt-Galaxy_1.png' title='Kurzgesagt-Galaxy_1'>
 
 **Tags:** `Kurzgesagt` `Galaxy_2`
 
-![Kurzgesagt-Galaxy_2](Unthemed/Kurzgesagt/Kurzgesagt-Galaxy_2.png)
+<img src='Unthemed/Kurzgesagt/Kurzgesagt-Galaxy_2.png' title='Kurzgesagt-Galaxy_2'>
 
 **Tags:** `Kurzgesagt` `Galaxy_3`
 
-![Kurzgesagt-Galaxy_3](Unthemed/Kurzgesagt/Kurzgesagt-Galaxy_3.png)
+<img src='Unthemed/Kurzgesagt/Kurzgesagt-Galaxy_3.png' title='Kurzgesagt-Galaxy_3'>
 
 **Tags:** `Kurzgesagt` `Mars`
 
-![Kurzgesagt-Mars](Unthemed/Kurzgesagt/Kurzgesagt-Mars.png)
+<img src='Unthemed/Kurzgesagt/Kurzgesagt-Mars.png' title='Kurzgesagt-Mars'>
 
 **Tags:** `Kurzgesagt` `On A Moon`
 
-![Kurzgesagt-On A Moon](Unthemed/Kurzgesagt/Kurzgesagt-On A Moon.png)
+<img src='Unthemed/Kurzgesagt/Kurzgesagt-On A Moon.png' title='Kurzgesagt-On A Moon'>
 
 **Tags:** `Kurzgesagt` `Ringed_Earth`
 
-![Kurzgesagt-Ringed_Earth](Unthemed/Kurzgesagt/Kurzgesagt-Ringed_Earth.png)
+<img src='Unthemed/Kurzgesagt/Kurzgesagt-Ringed_Earth.png' title='Kurzgesagt-Ringed_Earth'>
 
 **Tags:** `Kurzgesagt` `Satellite over Earth`
 
-![Kurzgesagt-Satellite over Earth](Unthemed/Kurzgesagt/Kurzgesagt-Satellite over Earth.png)
+<img src='Unthemed/Kurzgesagt/Kurzgesagt-Satellite over Earth.png' title='Kurzgesagt-Satellite over Earth'>
 
 **Tags:** `Kurzgesagt` `Solar System`
 
-![Kurzgesagt-Solar System](Unthemed/Kurzgesagt/Kurzgesagt-Solar System.png)
+<img src='Unthemed/Kurzgesagt/Kurzgesagt-Solar System.png' title='Kurzgesagt-Solar System'>
 
 **Tags:** `Kurzgesagt` `Stars`
 
-![Kurzgesagt-Stars](Unthemed/Kurzgesagt/Kurzgesagt-Stars.png)
+<img src='Unthemed/Kurzgesagt/Kurzgesagt-Stars.png' title='Kurzgesagt-Stars'>
 
 **Tags:** `Kurzgesagt` `Stellar Phenomenon`
 
-![Kurzgesagt-Stellar Phenomenon](Unthemed/Kurzgesagt/Kurzgesagt-Stellar Phenomenon.png)
+<img src='Unthemed/Kurzgesagt/Kurzgesagt-Stellar Phenomenon.png' title='Kurzgesagt-Stellar Phenomenon'>
 
 **Tags:** `Kurzgesagt` `Unknown Lifeform`
 
-![Kurzgesagt-Unknown Lifeform](Unthemed/Kurzgesagt/Kurzgesagt-Unknown Lifeform.png)
+<img src='Unthemed/Kurzgesagt/Kurzgesagt-Unknown Lifeform.png' title='Kurzgesagt-Unknown Lifeform'>
 
 </details>
 
@@ -616,7 +616,7 @@ Inspired by [flick0](https://github.com/flick0/kabegami)
 
 **Tags:** `map`
 
-![map](Stardew Valley/map.png)
+<img src='Stardew Valley/map.png' title='map'>
 
 </details>
 
