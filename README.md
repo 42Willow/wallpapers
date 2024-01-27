@@ -44,21 +44,17 @@ Inspired by [flick0](https://github.com/flick0/kabegami)
 
 <details><summary>Pixel Art</summary>
 
-**Tags:** `1`
-
-<img src='Pixel Art/1.gif' title='1'>
-
-**Tags:** `2`
-
-<img src='Pixel Art/2.gif' title='2'>
-
-**Tags:** `README`
-
-<img src='Pixel Art/README.md' title='README'>
-
 **Tags:** `waterfall`
 
 <img src='Pixel Art/waterfall.jpeg' title='waterfall'>
+
+**Tags:** `animated` `street` `night`
+
+<img src='Pixel Art/animated-street-night.gif' title='animated-street-night'>
+
+**Tags:** `animated` `street` `evening`
+
+<img src='Pixel Art/animated-street-evening.gif' title='animated-street-evening'>
 
 </details>
 
