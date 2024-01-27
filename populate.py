@@ -1,17 +1,7 @@
+# This is a merge of https://github.com/DragonDev07/Wallpapers/blob/main/markdown.py and https://github.com/42Willow/dotfiles/blob/45ef591a5cb06454f04b82e17be613e186533edf/hypr/wallpapers/populate.py
+# These are based off https://github.com/flick0/kabegami/blob/master/populate.py
+
 import os
-
-# # # Get folders in the current working directory
-# # image_folders = [folder for folder in os.listdir() if os.path.isdir(os.path.join(os.getcwd(), folder))]
-# # image_folders.sort() # Sort alphabetically
-# # print(image_folders)
-
-# base_directory = "/home/willow/.dotfiles/hypr/wallpapers/"
-# readme = base_directory + "README.md"
-
-# # Discover image folders in the base directory
-# image_folders = [folder for folder in os.listdir(base_directory) if os.path.isdir(os.path.join(base_directory, folder))]
-# image_folders.sort()
-# # print(image_folders)
 
 # Begin README.md
 pre = f"""
@@ -60,6 +50,7 @@ def create_readme(directory):
 
     for top_level_dir in top_level_dirs:
         top_level_path = os.path.join(directory, top_level_dir)
+        print(f"======{top_level_path}======")
 
         # Ignore hidden directories and directories without image files
         if top_level_dir.startswith('.') or not has_image_files(top_level_path):
@@ -78,6 +69,7 @@ def create_readme(directory):
         # Walk through the directory structure
         for root, dirs, files in os.walk(top_level_path):
             relative_path = os.path.relpath(root, directory)
+            print(f"+++ {relative_path} +++")
 
             # Ignore hidden directories
             dirs[:] = [d for d in dirs if not d.startswith('.')]
@@ -87,8 +79,9 @@ def create_readme(directory):
                 readme_content += f"<details><summary>{os.path.basename(relative_path)}</summary>\n\n"
 
             for file in files:
-                file_path = os.path.join(root, file)
+                file_path = os.path.relpath(os.path.join(root, file))
                 file_name, _ = os.path.splitext(file)
+                print(file_name)
 
                 # Extract tags from filename and enclose them in inline code blocks
                 tags = [f"`{tag.strip('`')}`" for tag in file_name.split("-")] if "-" in file_name else [f"`{file_name.strip('`')}`"]
@@ -111,18 +104,3 @@ if __name__ == "__main__":
     directory_path = input("Enter the directory path: ")
     create_readme(directory_path)
     print("README.md created successfully.")
-
-
-# with open(readme, "a") as f:
-#     for folder in image_folders:
-#         f.write("\n## " + folder + "\n")
-#         f.write("<details><summary></summary>\n")
-#         print(f"=== Folder: {folder} ===")
-#         for file in os.listdir(base_directory + folder):
-#             print(file)
-#             if file.endswith(".jpg") or file.endswith("jpeg") or file.endswith(".png") or file.endswith(".gif") or file.endswith(".webp") or file.endswith(".webm"):
-#                 f.write(
-#                     image_embed(file[:-4], folder, file)
-#                 )
-#         f.write("</details>\n")
-#     f.write(post)

@@ -18,7 +18,7 @@ Inspired by [flick0](https://github.com/flick0/kabegami)
 
 **Tags:** `willow_and_sundew`
 
-![willow_and_sundew](/home/willow/wallpapers/Art/willow_and_sundew.jpeg)
+![willow_and_sundew](Art/willow_and_sundew.jpeg)
 
 </details>
 
@@ -28,15 +28,15 @@ Inspired by [flick0](https://github.com/flick0/kabegami)
 
 **Tags:** `lake`
 
-![lake](/home/willow/wallpapers/Photos/lake.jpg)
+![lake](Photos/lake.jpg)
 
 **Tags:** `mountains`
 
-![mountains](/home/willow/wallpapers/Photos/mountains.jpg)
+![mountains](Photos/mountains.jpg)
 
 **Tags:** `sandstone`
 
-![sandstone](/home/willow/wallpapers/Photos/sandstone.jpg)
+![sandstone](Photos/sandstone.jpg)
 
 </details>
 
@@ -46,19 +46,19 @@ Inspired by [flick0](https://github.com/flick0/kabegami)
 
 **Tags:** `1`
 
-![1](/home/willow/wallpapers/Pixel Art/1.gif)
+![1](Pixel Art/1.gif)
 
 **Tags:** `2`
 
-![2](/home/willow/wallpapers/Pixel Art/2.gif)
+![2](Pixel Art/2.gif)
 
 **Tags:** `README`
 
-![README](/home/willow/wallpapers/Pixel Art/README.md)
+![README](Pixel Art/README.md)
 
 **Tags:** `waterfall`
 
-![waterfall](/home/willow/wallpapers/Pixel Art/waterfall.jpeg)
+![waterfall](Pixel Art/waterfall.jpeg)
 
 </details>
 
@@ -68,107 +68,107 @@ Inspired by [flick0](https://github.com/flick0/kabegami)
 
 **Tags:** `Kurzgesagt` `Asteroid_Miner_1`
 
-![Kurzgesagt-Asteroid_Miner_1](/home/willow/wallpapers/Catppuccin/Frappe/Kurzgesagt-Asteroid_Miner_1.png)
+![Kurzgesagt-Asteroid_Miner_1](Catppuccin/Frappe/Kurzgesagt-Asteroid_Miner_1.png)
 
 **Tags:** `Kurzgesagt` `Asteroid_Miner_2`
 
-![Kurzgesagt-Asteroid_Miner_2](/home/willow/wallpapers/Catppuccin/Frappe/Kurzgesagt-Asteroid_Miner_2.png)
+![Kurzgesagt-Asteroid_Miner_2](Catppuccin/Frappe/Kurzgesagt-Asteroid_Miner_2.png)
 
 **Tags:** `Kurzgesagt` `Asteroids`
 
-![Kurzgesagt-Asteroids](/home/willow/wallpapers/Catppuccin/Frappe/Kurzgesagt-Asteroids.png)
+![Kurzgesagt-Asteroids](Catppuccin/Frappe/Kurzgesagt-Asteroids.png)
 
 **Tags:** `Kurzgesagt` `Baby_Star`
 
-![Kurzgesagt-Baby_Star](/home/willow/wallpapers/Catppuccin/Frappe/Kurzgesagt-Baby_Star.png)
+![Kurzgesagt-Baby_Star](Catppuccin/Frappe/Kurzgesagt-Baby_Star.png)
 
 **Tags:** `Kurzgesagt` `Black Hole_1`
 
-![Kurzgesagt-Black Hole_1](/home/willow/wallpapers/Catppuccin/Frappe/Kurzgesagt-Black Hole_1.png)
+![Kurzgesagt-Black Hole_1](Catppuccin/Frappe/Kurzgesagt-Black Hole_1.png)
 
 **Tags:** `Kurzgesagt` `Black Hole_2`
 
-![Kurzgesagt-Black Hole_2](/home/willow/wallpapers/Catppuccin/Frappe/Kurzgesagt-Black Hole_2.png)
+![Kurzgesagt-Black Hole_2](Catppuccin/Frappe/Kurzgesagt-Black Hole_2.png)
 
 **Tags:** `Kurzgesagt` `Cloudy Quasar_1`
 
-![Kurzgesagt-Cloudy Quasar_1](/home/willow/wallpapers/Catppuccin/Frappe/Kurzgesagt-Cloudy Quasar_1.png)
+![Kurzgesagt-Cloudy Quasar_1](Catppuccin/Frappe/Kurzgesagt-Cloudy Quasar_1.png)
 
 **Tags:** `Kurzgesagt` `Cloudy Quasar_2`
 
-![Kurzgesagt-Cloudy Quasar_2](/home/willow/wallpapers/Catppuccin/Frappe/Kurzgesagt-Cloudy Quasar_2.png)
+![Kurzgesagt-Cloudy Quasar_2](Catppuccin/Frappe/Kurzgesagt-Cloudy Quasar_2.png)
 
 **Tags:** `Kurzgesagt` `Contemplative Cosmonaut_1`
 
-![Kurzgesagt-Contemplative Cosmonaut_1](/home/willow/wallpapers/Catppuccin/Frappe/Kurzgesagt-Contemplative Cosmonaut_1.png)
+![Kurzgesagt-Contemplative Cosmonaut_1](Catppuccin/Frappe/Kurzgesagt-Contemplative Cosmonaut_1.png)
 
 **Tags:** `Kurzgesagt` `Contemplative Cosmonaut_2`
 
-![Kurzgesagt-Contemplative Cosmonaut_2](/home/willow/wallpapers/Catppuccin/Frappe/Kurzgesagt-Contemplative Cosmonaut_2.png)
+![Kurzgesagt-Contemplative Cosmonaut_2](Catppuccin/Frappe/Kurzgesagt-Contemplative Cosmonaut_2.png)
 
 **Tags:** `Kurzgesagt` `Contemplative Cosmonaut_3`
 
-![Kurzgesagt-Contemplative Cosmonaut_3](/home/willow/wallpapers/Catppuccin/Frappe/Kurzgesagt-Contemplative Cosmonaut_3.png)
+![Kurzgesagt-Contemplative Cosmonaut_3](Catppuccin/Frappe/Kurzgesagt-Contemplative Cosmonaut_3.png)
 
 **Tags:** `Kurzgesagt` `Contemplative Cosmonaut_4`
 
-![Kurzgesagt-Contemplative Cosmonaut_4](/home/willow/wallpapers/Catppuccin/Frappe/Kurzgesagt-Contemplative Cosmonaut_4.png)
+![Kurzgesagt-Contemplative Cosmonaut_4](Catppuccin/Frappe/Kurzgesagt-Contemplative Cosmonaut_4.png)
 
 **Tags:** `Kurzgesagt` `Cosmic_Islands`
 
-![Kurzgesagt-Cosmic_Islands](/home/willow/wallpapers/Catppuccin/Frappe/Kurzgesagt-Cosmic_Islands.png)
+![Kurzgesagt-Cosmic_Islands](Catppuccin/Frappe/Kurzgesagt-Cosmic_Islands.png)
 
 **Tags:** `Kurzgesagt` `Fleet`
 
-![Kurzgesagt-Fleet](/home/willow/wallpapers/Catppuccin/Frappe/Kurzgesagt-Fleet.png)
+![Kurzgesagt-Fleet](Catppuccin/Frappe/Kurzgesagt-Fleet.png)
 
 **Tags:** `Kurzgesagt` `Galaxies`
 
-![Kurzgesagt-Galaxies](/home/willow/wallpapers/Catppuccin/Frappe/Kurzgesagt-Galaxies.png)
+![Kurzgesagt-Galaxies](Catppuccin/Frappe/Kurzgesagt-Galaxies.png)
 
 **Tags:** `Kurzgesagt` `Galaxy_1`
 
-![Kurzgesagt-Galaxy_1](/home/willow/wallpapers/Catppuccin/Frappe/Kurzgesagt-Galaxy_1.png)
+![Kurzgesagt-Galaxy_1](Catppuccin/Frappe/Kurzgesagt-Galaxy_1.png)
 
 **Tags:** `Kurzgesagt` `Galaxy_2`
 
-![Kurzgesagt-Galaxy_2](/home/willow/wallpapers/Catppuccin/Frappe/Kurzgesagt-Galaxy_2.png)
+![Kurzgesagt-Galaxy_2](Catppuccin/Frappe/Kurzgesagt-Galaxy_2.png)
 
 **Tags:** `Kurzgesagt` `Galaxy_3`
 
-![Kurzgesagt-Galaxy_3](/home/willow/wallpapers/Catppuccin/Frappe/Kurzgesagt-Galaxy_3.png)
+![Kurzgesagt-Galaxy_3](Catppuccin/Frappe/Kurzgesagt-Galaxy_3.png)
 
 **Tags:** `Kurzgesagt` `Mars`
 
-![Kurzgesagt-Mars](/home/willow/wallpapers/Catppuccin/Frappe/Kurzgesagt-Mars.png)
+![Kurzgesagt-Mars](Catppuccin/Frappe/Kurzgesagt-Mars.png)
 
 **Tags:** `Kurzgesagt` `On A Moon`
 
-![Kurzgesagt-On A Moon](/home/willow/wallpapers/Catppuccin/Frappe/Kurzgesagt-On A Moon.png)
+![Kurzgesagt-On A Moon](Catppuccin/Frappe/Kurzgesagt-On A Moon.png)
 
 **Tags:** `Kurzgesagt` `Ringed_Earth`
 
-![Kurzgesagt-Ringed_Earth](/home/willow/wallpapers/Catppuccin/Frappe/Kurzgesagt-Ringed_Earth.png)
+![Kurzgesagt-Ringed_Earth](Catppuccin/Frappe/Kurzgesagt-Ringed_Earth.png)
 
 **Tags:** `Kurzgesagt` `Satellite over Earth`
 
-![Kurzgesagt-Satellite over Earth](/home/willow/wallpapers/Catppuccin/Frappe/Kurzgesagt-Satellite over Earth.png)
+![Kurzgesagt-Satellite over Earth](Catppuccin/Frappe/Kurzgesagt-Satellite over Earth.png)
 
 **Tags:** `Kurzgesagt` `Solar System`
 
-![Kurzgesagt-Solar System](/home/willow/wallpapers/Catppuccin/Frappe/Kurzgesagt-Solar System.png)
+![Kurzgesagt-Solar System](Catppuccin/Frappe/Kurzgesagt-Solar System.png)
 
 **Tags:** `Kurzgesagt` `Stars`
 
-![Kurzgesagt-Stars](/home/willow/wallpapers/Catppuccin/Frappe/Kurzgesagt-Stars.png)
+![Kurzgesagt-Stars](Catppuccin/Frappe/Kurzgesagt-Stars.png)
 
 **Tags:** `Kurzgesagt` `Stellar Phenomenon`
 
-![Kurzgesagt-Stellar Phenomenon](/home/willow/wallpapers/Catppuccin/Frappe/Kurzgesagt-Stellar Phenomenon.png)
+![Kurzgesagt-Stellar Phenomenon](Catppuccin/Frappe/Kurzgesagt-Stellar Phenomenon.png)
 
 **Tags:** `Kurzgesagt` `Unknown Lifeform`
 
-![Kurzgesagt-Unknown Lifeform](/home/willow/wallpapers/Catppuccin/Frappe/Kurzgesagt-Unknown Lifeform.png)
+![Kurzgesagt-Unknown Lifeform](Catppuccin/Frappe/Kurzgesagt-Unknown Lifeform.png)
 
 </details>
 
@@ -176,107 +176,107 @@ Inspired by [flick0](https://github.com/flick0/kabegami)
 
 **Tags:** `Kurzgesagt` `Asteroid_Miner_1`
 
-![Kurzgesagt-Asteroid_Miner_1](/home/willow/wallpapers/Catppuccin/Latte/Kurzgesagt-Asteroid_Miner_1.png)
+![Kurzgesagt-Asteroid_Miner_1](Catppuccin/Latte/Kurzgesagt-Asteroid_Miner_1.png)
 
 **Tags:** `Kurzgesagt` `Asteroid_Miner_2`
 
-![Kurzgesagt-Asteroid_Miner_2](/home/willow/wallpapers/Catppuccin/Latte/Kurzgesagt-Asteroid_Miner_2.png)
+![Kurzgesagt-Asteroid_Miner_2](Catppuccin/Latte/Kurzgesagt-Asteroid_Miner_2.png)
 
 **Tags:** `Kurzgesagt` `Asteroids`
 
-![Kurzgesagt-Asteroids](/home/willow/wallpapers/Catppuccin/Latte/Kurzgesagt-Asteroids.png)
+![Kurzgesagt-Asteroids](Catppuccin/Latte/Kurzgesagt-Asteroids.png)
 
 **Tags:** `Kurzgesagt` `Baby_Star`
 
-![Kurzgesagt-Baby_Star](/home/willow/wallpapers/Catppuccin/Latte/Kurzgesagt-Baby_Star.png)
+![Kurzgesagt-Baby_Star](Catppuccin/Latte/Kurzgesagt-Baby_Star.png)
 
 **Tags:** `Kurzgesagt` `Black Hole_1`
 
-![Kurzgesagt-Black Hole_1](/home/willow/wallpapers/Catppuccin/Latte/Kurzgesagt-Black Hole_1.png)
+![Kurzgesagt-Black Hole_1](Catppuccin/Latte/Kurzgesagt-Black Hole_1.png)
 
 **Tags:** `Kurzgesagt` `Black Hole_2`
 
-![Kurzgesagt-Black Hole_2](/home/willow/wallpapers/Catppuccin/Latte/Kurzgesagt-Black Hole_2.png)
+![Kurzgesagt-Black Hole_2](Catppuccin/Latte/Kurzgesagt-Black Hole_2.png)
 
 **Tags:** `Kurzgesagt` `Cloudy Quasar_1`
 
-![Kurzgesagt-Cloudy Quasar_1](/home/willow/wallpapers/Catppuccin/Latte/Kurzgesagt-Cloudy Quasar_1.png)
+![Kurzgesagt-Cloudy Quasar_1](Catppuccin/Latte/Kurzgesagt-Cloudy Quasar_1.png)
 
 **Tags:** `Kurzgesagt` `Cloudy Quasar_2`
 
-![Kurzgesagt-Cloudy Quasar_2](/home/willow/wallpapers/Catppuccin/Latte/Kurzgesagt-Cloudy Quasar_2.png)
+![Kurzgesagt-Cloudy Quasar_2](Catppuccin/Latte/Kurzgesagt-Cloudy Quasar_2.png)
 
 **Tags:** `Kurzgesagt` `Contemplative Cosmonaut_1`
 
-![Kurzgesagt-Contemplative Cosmonaut_1](/home/willow/wallpapers/Catppuccin/Latte/Kurzgesagt-Contemplative Cosmonaut_1.png)
+![Kurzgesagt-Contemplative Cosmonaut_1](Catppuccin/Latte/Kurzgesagt-Contemplative Cosmonaut_1.png)
 
 **Tags:** `Kurzgesagt` `Contemplative Cosmonaut_2`
 
-![Kurzgesagt-Contemplative Cosmonaut_2](/home/willow/wallpapers/Catppuccin/Latte/Kurzgesagt-Contemplative Cosmonaut_2.png)
+![Kurzgesagt-Contemplative Cosmonaut_2](Catppuccin/Latte/Kurzgesagt-Contemplative Cosmonaut_2.png)
 
 **Tags:** `Kurzgesagt` `Contemplative Cosmonaut_3`
 
-![Kurzgesagt-Contemplative Cosmonaut_3](/home/willow/wallpapers/Catppuccin/Latte/Kurzgesagt-Contemplative Cosmonaut_3.png)
+![Kurzgesagt-Contemplative Cosmonaut_3](Catppuccin/Latte/Kurzgesagt-Contemplative Cosmonaut_3.png)
 
 **Tags:** `Kurzgesagt` `Contemplative Cosmonaut_4`
 
-![Kurzgesagt-Contemplative Cosmonaut_4](/home/willow/wallpapers/Catppuccin/Latte/Kurzgesagt-Contemplative Cosmonaut_4.png)
+![Kurzgesagt-Contemplative Cosmonaut_4](Catppuccin/Latte/Kurzgesagt-Contemplative Cosmonaut_4.png)
 
 **Tags:** `Kurzgesagt` `Cosmic_Islands`
 
-![Kurzgesagt-Cosmic_Islands](/home/willow/wallpapers/Catppuccin/Latte/Kurzgesagt-Cosmic_Islands.png)
+![Kurzgesagt-Cosmic_Islands](Catppuccin/Latte/Kurzgesagt-Cosmic_Islands.png)
 
 **Tags:** `Kurzgesagt` `Fleet`
 
-![Kurzgesagt-Fleet](/home/willow/wallpapers/Catppuccin/Latte/Kurzgesagt-Fleet.png)
+![Kurzgesagt-Fleet](Catppuccin/Latte/Kurzgesagt-Fleet.png)
 
 **Tags:** `Kurzgesagt` `Galaxies`
 
-![Kurzgesagt-Galaxies](/home/willow/wallpapers/Catppuccin/Latte/Kurzgesagt-Galaxies.png)
+![Kurzgesagt-Galaxies](Catppuccin/Latte/Kurzgesagt-Galaxies.png)
 
 **Tags:** `Kurzgesagt` `Galaxy_1`
 
-![Kurzgesagt-Galaxy_1](/home/willow/wallpapers/Catppuccin/Latte/Kurzgesagt-Galaxy_1.png)
+![Kurzgesagt-Galaxy_1](Catppuccin/Latte/Kurzgesagt-Galaxy_1.png)
 
 **Tags:** `Kurzgesagt` `Galaxy_2`
 
-![Kurzgesagt-Galaxy_2](/home/willow/wallpapers/Catppuccin/Latte/Kurzgesagt-Galaxy_2.png)
+![Kurzgesagt-Galaxy_2](Catppuccin/Latte/Kurzgesagt-Galaxy_2.png)
 
 **Tags:** `Kurzgesagt` `Galaxy_3`
 
-![Kurzgesagt-Galaxy_3](/home/willow/wallpapers/Catppuccin/Latte/Kurzgesagt-Galaxy_3.png)
+![Kurzgesagt-Galaxy_3](Catppuccin/Latte/Kurzgesagt-Galaxy_3.png)
 
 **Tags:** `Kurzgesagt` `Mars`
 
-![Kurzgesagt-Mars](/home/willow/wallpapers/Catppuccin/Latte/Kurzgesagt-Mars.png)
+![Kurzgesagt-Mars](Catppuccin/Latte/Kurzgesagt-Mars.png)
 
 **Tags:** `Kurzgesagt` `On A Moon`
 
-![Kurzgesagt-On A Moon](/home/willow/wallpapers/Catppuccin/Latte/Kurzgesagt-On A Moon.png)
+![Kurzgesagt-On A Moon](Catppuccin/Latte/Kurzgesagt-On A Moon.png)
 
 **Tags:** `Kurzgesagt` `Ringed_Earth`
 
-![Kurzgesagt-Ringed_Earth](/home/willow/wallpapers/Catppuccin/Latte/Kurzgesagt-Ringed_Earth.png)
+![Kurzgesagt-Ringed_Earth](Catppuccin/Latte/Kurzgesagt-Ringed_Earth.png)
 
 **Tags:** `Kurzgesagt` `Satellite over Earth`
 
-![Kurzgesagt-Satellite over Earth](/home/willow/wallpapers/Catppuccin/Latte/Kurzgesagt-Satellite over Earth.png)
+![Kurzgesagt-Satellite over Earth](Catppuccin/Latte/Kurzgesagt-Satellite over Earth.png)
 
 **Tags:** `Kurzgesagt` `Solar System`
 
-![Kurzgesagt-Solar System](/home/willow/wallpapers/Catppuccin/Latte/Kurzgesagt-Solar System.png)
+![Kurzgesagt-Solar System](Catppuccin/Latte/Kurzgesagt-Solar System.png)
 
 **Tags:** `Kurzgesagt` `Stars`
 
-![Kurzgesagt-Stars](/home/willow/wallpapers/Catppuccin/Latte/Kurzgesagt-Stars.png)
+![Kurzgesagt-Stars](Catppuccin/Latte/Kurzgesagt-Stars.png)
 
 **Tags:** `Kurzgesagt` `Stellar Phenomenon`
 
-![Kurzgesagt-Stellar Phenomenon](/home/willow/wallpapers/Catppuccin/Latte/Kurzgesagt-Stellar Phenomenon.png)
+![Kurzgesagt-Stellar Phenomenon](Catppuccin/Latte/Kurzgesagt-Stellar Phenomenon.png)
 
 **Tags:** `Kurzgesagt` `Unknown Lifeform`
 
-![Kurzgesagt-Unknown Lifeform](/home/willow/wallpapers/Catppuccin/Latte/Kurzgesagt-Unknown Lifeform.png)
+![Kurzgesagt-Unknown Lifeform](Catppuccin/Latte/Kurzgesagt-Unknown Lifeform.png)
 
 </details>
 
@@ -284,107 +284,107 @@ Inspired by [flick0](https://github.com/flick0/kabegami)
 
 **Tags:** `Kurzgesagt` `Asteroid_Miner_1`
 
-![Kurzgesagt-Asteroid_Miner_1](/home/willow/wallpapers/Catppuccin/Macchiato/Kurzgesagt-Asteroid_Miner_1.png)
+![Kurzgesagt-Asteroid_Miner_1](Catppuccin/Macchiato/Kurzgesagt-Asteroid_Miner_1.png)
 
 **Tags:** `Kurzgesagt` `Asteroid_Miner_2`
 
-![Kurzgesagt-Asteroid_Miner_2](/home/willow/wallpapers/Catppuccin/Macchiato/Kurzgesagt-Asteroid_Miner_2.png)
+![Kurzgesagt-Asteroid_Miner_2](Catppuccin/Macchiato/Kurzgesagt-Asteroid_Miner_2.png)
 
 **Tags:** `Kurzgesagt` `Asteroids`
 
-![Kurzgesagt-Asteroids](/home/willow/wallpapers/Catppuccin/Macchiato/Kurzgesagt-Asteroids.png)
+![Kurzgesagt-Asteroids](Catppuccin/Macchiato/Kurzgesagt-Asteroids.png)
 
 **Tags:** `Kurzgesagt` `Baby_Star`
 
-![Kurzgesagt-Baby_Star](/home/willow/wallpapers/Catppuccin/Macchiato/Kurzgesagt-Baby_Star.png)
+![Kurzgesagt-Baby_Star](Catppuccin/Macchiato/Kurzgesagt-Baby_Star.png)
 
 **Tags:** `Kurzgesagt` `Black Hole_1`
 
-![Kurzgesagt-Black Hole_1](/home/willow/wallpapers/Catppuccin/Macchiato/Kurzgesagt-Black Hole_1.png)
+![Kurzgesagt-Black Hole_1](Catppuccin/Macchiato/Kurzgesagt-Black Hole_1.png)
 
 **Tags:** `Kurzgesagt` `Black Hole_2`
 
-![Kurzgesagt-Black Hole_2](/home/willow/wallpapers/Catppuccin/Macchiato/Kurzgesagt-Black Hole_2.png)
+![Kurzgesagt-Black Hole_2](Catppuccin/Macchiato/Kurzgesagt-Black Hole_2.png)
 
 **Tags:** `Kurzgesagt` `Cloudy Quasar_1`
 
-![Kurzgesagt-Cloudy Quasar_1](/home/willow/wallpapers/Catppuccin/Macchiato/Kurzgesagt-Cloudy Quasar_1.png)
+![Kurzgesagt-Cloudy Quasar_1](Catppuccin/Macchiato/Kurzgesagt-Cloudy Quasar_1.png)
 
 **Tags:** `Kurzgesagt` `Cloudy Quasar_2`
 
-![Kurzgesagt-Cloudy Quasar_2](/home/willow/wallpapers/Catppuccin/Macchiato/Kurzgesagt-Cloudy Quasar_2.png)
+![Kurzgesagt-Cloudy Quasar_2](Catppuccin/Macchiato/Kurzgesagt-Cloudy Quasar_2.png)
 
 **Tags:** `Kurzgesagt` `Contemplative Cosmonaut_1`
 
-![Kurzgesagt-Contemplative Cosmonaut_1](/home/willow/wallpapers/Catppuccin/Macchiato/Kurzgesagt-Contemplative Cosmonaut_1.png)
+![Kurzgesagt-Contemplative Cosmonaut_1](Catppuccin/Macchiato/Kurzgesagt-Contemplative Cosmonaut_1.png)
 
 **Tags:** `Kurzgesagt` `Contemplative Cosmonaut_2`
 
-![Kurzgesagt-Contemplative Cosmonaut_2](/home/willow/wallpapers/Catppuccin/Macchiato/Kurzgesagt-Contemplative Cosmonaut_2.png)
+![Kurzgesagt-Contemplative Cosmonaut_2](Catppuccin/Macchiato/Kurzgesagt-Contemplative Cosmonaut_2.png)
 
 **Tags:** `Kurzgesagt` `Contemplative Cosmonaut_3`
 
-![Kurzgesagt-Contemplative Cosmonaut_3](/home/willow/wallpapers/Catppuccin/Macchiato/Kurzgesagt-Contemplative Cosmonaut_3.png)
+![Kurzgesagt-Contemplative Cosmonaut_3](Catppuccin/Macchiato/Kurzgesagt-Contemplative Cosmonaut_3.png)
 
 **Tags:** `Kurzgesagt` `Contemplative Cosmonaut_4`
 
-![Kurzgesagt-Contemplative Cosmonaut_4](/home/willow/wallpapers/Catppuccin/Macchiato/Kurzgesagt-Contemplative Cosmonaut_4.png)
+![Kurzgesagt-Contemplative Cosmonaut_4](Catppuccin/Macchiato/Kurzgesagt-Contemplative Cosmonaut_4.png)
 
 **Tags:** `Kurzgesagt` `Cosmic_Islands`
 
-![Kurzgesagt-Cosmic_Islands](/home/willow/wallpapers/Catppuccin/Macchiato/Kurzgesagt-Cosmic_Islands.png)
+![Kurzgesagt-Cosmic_Islands](Catppuccin/Macchiato/Kurzgesagt-Cosmic_Islands.png)
 
 **Tags:** `Kurzgesagt` `Fleet`
 
-![Kurzgesagt-Fleet](/home/willow/wallpapers/Catppuccin/Macchiato/Kurzgesagt-Fleet.png)
+![Kurzgesagt-Fleet](Catppuccin/Macchiato/Kurzgesagt-Fleet.png)
 
 **Tags:** `Kurzgesagt` `Galaxies`
 
-![Kurzgesagt-Galaxies](/home/willow/wallpapers/Catppuccin/Macchiato/Kurzgesagt-Galaxies.png)
+![Kurzgesagt-Galaxies](Catppuccin/Macchiato/Kurzgesagt-Galaxies.png)
 
 **Tags:** `Kurzgesagt` `Galaxy_1`
 
-![Kurzgesagt-Galaxy_1](/home/willow/wallpapers/Catppuccin/Macchiato/Kurzgesagt-Galaxy_1.png)
+![Kurzgesagt-Galaxy_1](Catppuccin/Macchiato/Kurzgesagt-Galaxy_1.png)
 
 **Tags:** `Kurzgesagt` `Galaxy_2`
 
-![Kurzgesagt-Galaxy_2](/home/willow/wallpapers/Catppuccin/Macchiato/Kurzgesagt-Galaxy_2.png)
+![Kurzgesagt-Galaxy_2](Catppuccin/Macchiato/Kurzgesagt-Galaxy_2.png)
 
 **Tags:** `Kurzgesagt` `Galaxy_3`
 
-![Kurzgesagt-Galaxy_3](/home/willow/wallpapers/Catppuccin/Macchiato/Kurzgesagt-Galaxy_3.png)
+![Kurzgesagt-Galaxy_3](Catppuccin/Macchiato/Kurzgesagt-Galaxy_3.png)
 
 **Tags:** `Kurzgesagt` `Mars`
 
-![Kurzgesagt-Mars](/home/willow/wallpapers/Catppuccin/Macchiato/Kurzgesagt-Mars.png)
+![Kurzgesagt-Mars](Catppuccin/Macchiato/Kurzgesagt-Mars.png)
 
 **Tags:** `Kurzgesagt` `On A Moon`
 
-![Kurzgesagt-On A Moon](/home/willow/wallpapers/Catppuccin/Macchiato/Kurzgesagt-On A Moon.png)
+![Kurzgesagt-On A Moon](Catppuccin/Macchiato/Kurzgesagt-On A Moon.png)
 
 **Tags:** `Kurzgesagt` `Ringed_Earth.jpg`
 
-![Kurzgesagt-Ringed_Earth.jpg](/home/willow/wallpapers/Catppuccin/Macchiato/Kurzgesagt-Ringed_Earth.jpg.jpg)
+![Kurzgesagt-Ringed_Earth.jpg](Catppuccin/Macchiato/Kurzgesagt-Ringed_Earth.jpg.jpg)
 
 **Tags:** `Kurzgesagt` `Satellite over Earth`
 
-![Kurzgesagt-Satellite over Earth](/home/willow/wallpapers/Catppuccin/Macchiato/Kurzgesagt-Satellite over Earth.png)
+![Kurzgesagt-Satellite over Earth](Catppuccin/Macchiato/Kurzgesagt-Satellite over Earth.png)
 
 **Tags:** `Kurzgesagt` `Solar System`
 
-![Kurzgesagt-Solar System](/home/willow/wallpapers/Catppuccin/Macchiato/Kurzgesagt-Solar System.png)
+![Kurzgesagt-Solar System](Catppuccin/Macchiato/Kurzgesagt-Solar System.png)
 
 **Tags:** `Kurzgesagt` `Stars`
 
-![Kurzgesagt-Stars](/home/willow/wallpapers/Catppuccin/Macchiato/Kurzgesagt-Stars.png)
+![Kurzgesagt-Stars](Catppuccin/Macchiato/Kurzgesagt-Stars.png)
 
 **Tags:** `Kurzgesagt` `Stellar Phenomenon`
 
-![Kurzgesagt-Stellar Phenomenon](/home/willow/wallpapers/Catppuccin/Macchiato/Kurzgesagt-Stellar Phenomenon.png)
+![Kurzgesagt-Stellar Phenomenon](Catppuccin/Macchiato/Kurzgesagt-Stellar Phenomenon.png)
 
 **Tags:** `Kurzgesagt` `Unknown Lifeform`
 
-![Kurzgesagt-Unknown Lifeform](/home/willow/wallpapers/Catppuccin/Macchiato/Kurzgesagt-Unknown Lifeform.png)
+![Kurzgesagt-Unknown Lifeform](Catppuccin/Macchiato/Kurzgesagt-Unknown Lifeform.png)
 
 </details>
 
@@ -392,107 +392,107 @@ Inspired by [flick0](https://github.com/flick0/kabegami)
 
 **Tags:** `Kurzgesagt` `Asteroid_Miner_1`
 
-![Kurzgesagt-Asteroid_Miner_1](/home/willow/wallpapers/Catppuccin/Mocha/Kurzgesagt-Asteroid_Miner_1.png)
+![Kurzgesagt-Asteroid_Miner_1](Catppuccin/Mocha/Kurzgesagt-Asteroid_Miner_1.png)
 
 **Tags:** `Kurzgesagt` `Asteroid_Miner_2`
 
-![Kurzgesagt-Asteroid_Miner_2](/home/willow/wallpapers/Catppuccin/Mocha/Kurzgesagt-Asteroid_Miner_2.png)
+![Kurzgesagt-Asteroid_Miner_2](Catppuccin/Mocha/Kurzgesagt-Asteroid_Miner_2.png)
 
 **Tags:** `Kurzgesagt` `Asteroids`
 
-![Kurzgesagt-Asteroids](/home/willow/wallpapers/Catppuccin/Mocha/Kurzgesagt-Asteroids.png)
+![Kurzgesagt-Asteroids](Catppuccin/Mocha/Kurzgesagt-Asteroids.png)
 
 **Tags:** `Kurzgesagt` `Baby_Star`
 
-![Kurzgesagt-Baby_Star](/home/willow/wallpapers/Catppuccin/Mocha/Kurzgesagt-Baby_Star.png)
+![Kurzgesagt-Baby_Star](Catppuccin/Mocha/Kurzgesagt-Baby_Star.png)
 
 **Tags:** `Kurzgesagt` `Black Hole_1`
 
-![Kurzgesagt-Black Hole_1](/home/willow/wallpapers/Catppuccin/Mocha/Kurzgesagt-Black Hole_1.png)
+![Kurzgesagt-Black Hole_1](Catppuccin/Mocha/Kurzgesagt-Black Hole_1.png)
 
 **Tags:** `Kurzgesagt` `Black Hole_2`
 
-![Kurzgesagt-Black Hole_2](/home/willow/wallpapers/Catppuccin/Mocha/Kurzgesagt-Black Hole_2.png)
+![Kurzgesagt-Black Hole_2](Catppuccin/Mocha/Kurzgesagt-Black Hole_2.png)
 
 **Tags:** `Kurzgesagt` `Cloudy Quasar_1`
 
-![Kurzgesagt-Cloudy Quasar_1](/home/willow/wallpapers/Catppuccin/Mocha/Kurzgesagt-Cloudy Quasar_1.png)
+![Kurzgesagt-Cloudy Quasar_1](Catppuccin/Mocha/Kurzgesagt-Cloudy Quasar_1.png)
 
 **Tags:** `Kurzgesagt` `Cloudy Quasar_2`
 
-![Kurzgesagt-Cloudy Quasar_2](/home/willow/wallpapers/Catppuccin/Mocha/Kurzgesagt-Cloudy Quasar_2.png)
+![Kurzgesagt-Cloudy Quasar_2](Catppuccin/Mocha/Kurzgesagt-Cloudy Quasar_2.png)
 
 **Tags:** `Kurzgesagt` `Contemplative Cosmonaut_1`
 
-![Kurzgesagt-Contemplative Cosmonaut_1](/home/willow/wallpapers/Catppuccin/Mocha/Kurzgesagt-Contemplative Cosmonaut_1.png)
+![Kurzgesagt-Contemplative Cosmonaut_1](Catppuccin/Mocha/Kurzgesagt-Contemplative Cosmonaut_1.png)
 
 **Tags:** `Kurzgesagt` `Contemplative Cosmonaut_2`
 
-![Kurzgesagt-Contemplative Cosmonaut_2](/home/willow/wallpapers/Catppuccin/Mocha/Kurzgesagt-Contemplative Cosmonaut_2.png)
+![Kurzgesagt-Contemplative Cosmonaut_2](Catppuccin/Mocha/Kurzgesagt-Contemplative Cosmonaut_2.png)
 
 **Tags:** `Kurzgesagt` `Contemplative Cosmonaut_3`
 
-![Kurzgesagt-Contemplative Cosmonaut_3](/home/willow/wallpapers/Catppuccin/Mocha/Kurzgesagt-Contemplative Cosmonaut_3.png)
+![Kurzgesagt-Contemplative Cosmonaut_3](Catppuccin/Mocha/Kurzgesagt-Contemplative Cosmonaut_3.png)
 
 **Tags:** `Kurzgesagt` `Contemplative Cosmonaut_4`
 
-![Kurzgesagt-Contemplative Cosmonaut_4](/home/willow/wallpapers/Catppuccin/Mocha/Kurzgesagt-Contemplative Cosmonaut_4.png)
+![Kurzgesagt-Contemplative Cosmonaut_4](Catppuccin/Mocha/Kurzgesagt-Contemplative Cosmonaut_4.png)
 
 **Tags:** `Kurzgesagt` `Cosmic_Islands`
 
-![Kurzgesagt-Cosmic_Islands](/home/willow/wallpapers/Catppuccin/Mocha/Kurzgesagt-Cosmic_Islands.png)
+![Kurzgesagt-Cosmic_Islands](Catppuccin/Mocha/Kurzgesagt-Cosmic_Islands.png)
 
 **Tags:** `Kurzgesagt` `Fleet`
 
-![Kurzgesagt-Fleet](/home/willow/wallpapers/Catppuccin/Mocha/Kurzgesagt-Fleet.png)
+![Kurzgesagt-Fleet](Catppuccin/Mocha/Kurzgesagt-Fleet.png)
 
 **Tags:** `Kurzgesagt` `Galaxies`
 
-![Kurzgesagt-Galaxies](/home/willow/wallpapers/Catppuccin/Mocha/Kurzgesagt-Galaxies.png)
+![Kurzgesagt-Galaxies](Catppuccin/Mocha/Kurzgesagt-Galaxies.png)
 
 **Tags:** `Kurzgesagt` `Galaxy_1`
 
-![Kurzgesagt-Galaxy_1](/home/willow/wallpapers/Catppuccin/Mocha/Kurzgesagt-Galaxy_1.png)
+![Kurzgesagt-Galaxy_1](Catppuccin/Mocha/Kurzgesagt-Galaxy_1.png)
 
 **Tags:** `Kurzgesagt` `Galaxy_2`
 
-![Kurzgesagt-Galaxy_2](/home/willow/wallpapers/Catppuccin/Mocha/Kurzgesagt-Galaxy_2.png)
+![Kurzgesagt-Galaxy_2](Catppuccin/Mocha/Kurzgesagt-Galaxy_2.png)
 
 **Tags:** `Kurzgesagt` `Galaxy_3`
 
-![Kurzgesagt-Galaxy_3](/home/willow/wallpapers/Catppuccin/Mocha/Kurzgesagt-Galaxy_3.png)
+![Kurzgesagt-Galaxy_3](Catppuccin/Mocha/Kurzgesagt-Galaxy_3.png)
 
 **Tags:** `Kurzgesagt` `Mars`
 
-![Kurzgesagt-Mars](/home/willow/wallpapers/Catppuccin/Mocha/Kurzgesagt-Mars.png)
+![Kurzgesagt-Mars](Catppuccin/Mocha/Kurzgesagt-Mars.png)
 
 **Tags:** `Kurzgesagt` `On A Moon`
 
-![Kurzgesagt-On A Moon](/home/willow/wallpapers/Catppuccin/Mocha/Kurzgesagt-On A Moon.png)
+![Kurzgesagt-On A Moon](Catppuccin/Mocha/Kurzgesagt-On A Moon.png)
 
 **Tags:** `Kurzgesagt` `Ringed_Earth.jpg`
 
-![Kurzgesagt-Ringed_Earth.jpg](/home/willow/wallpapers/Catppuccin/Mocha/Kurzgesagt-Ringed_Earth.jpg.jpg)
+![Kurzgesagt-Ringed_Earth.jpg](Catppuccin/Mocha/Kurzgesagt-Ringed_Earth.jpg.jpg)
 
 **Tags:** `Kurzgesagt` `Satellite over Earth`
 
-![Kurzgesagt-Satellite over Earth](/home/willow/wallpapers/Catppuccin/Mocha/Kurzgesagt-Satellite over Earth.png)
+![Kurzgesagt-Satellite over Earth](Catppuccin/Mocha/Kurzgesagt-Satellite over Earth.png)
 
 **Tags:** `Kurzgesagt` `Solar System`
 
-![Kurzgesagt-Solar System](/home/willow/wallpapers/Catppuccin/Mocha/Kurzgesagt-Solar System.png)
+![Kurzgesagt-Solar System](Catppuccin/Mocha/Kurzgesagt-Solar System.png)
 
 **Tags:** `Kurzgesagt` `Stars`
 
-![Kurzgesagt-Stars](/home/willow/wallpapers/Catppuccin/Mocha/Kurzgesagt-Stars.png)
+![Kurzgesagt-Stars](Catppuccin/Mocha/Kurzgesagt-Stars.png)
 
 **Tags:** `Kurzgesagt` `Stellar Phenomenon`
 
-![Kurzgesagt-Stellar Phenomenon](/home/willow/wallpapers/Catppuccin/Mocha/Kurzgesagt-Stellar Phenomenon.png)
+![Kurzgesagt-Stellar Phenomenon](Catppuccin/Mocha/Kurzgesagt-Stellar Phenomenon.png)
 
 **Tags:** `Kurzgesagt` `Unknown Lifeform`
 
-![Kurzgesagt-Unknown Lifeform](/home/willow/wallpapers/Catppuccin/Mocha/Kurzgesagt-Unknown Lifeform.png)
+![Kurzgesagt-Unknown Lifeform](Catppuccin/Mocha/Kurzgesagt-Unknown Lifeform.png)
 
 </details>
 
@@ -504,107 +504,107 @@ Inspired by [flick0](https://github.com/flick0/kabegami)
 
 **Tags:** `Kurzgesagt` `Asteroid_Miner_1`
 
-![Kurzgesagt-Asteroid_Miner_1](/home/willow/wallpapers/Unthemed/Kurzgesagt/Kurzgesagt-Asteroid_Miner_1.png)
+![Kurzgesagt-Asteroid_Miner_1](Unthemed/Kurzgesagt/Kurzgesagt-Asteroid_Miner_1.png)
 
 **Tags:** `Kurzgesagt` `Asteroid_Miner_2`
 
-![Kurzgesagt-Asteroid_Miner_2](/home/willow/wallpapers/Unthemed/Kurzgesagt/Kurzgesagt-Asteroid_Miner_2.png)
+![Kurzgesagt-Asteroid_Miner_2](Unthemed/Kurzgesagt/Kurzgesagt-Asteroid_Miner_2.png)
 
 **Tags:** `Kurzgesagt` `Asteroids`
 
-![Kurzgesagt-Asteroids](/home/willow/wallpapers/Unthemed/Kurzgesagt/Kurzgesagt-Asteroids.png)
+![Kurzgesagt-Asteroids](Unthemed/Kurzgesagt/Kurzgesagt-Asteroids.png)
 
 **Tags:** `Kurzgesagt` `Baby_Star`
 
-![Kurzgesagt-Baby_Star](/home/willow/wallpapers/Unthemed/Kurzgesagt/Kurzgesagt-Baby_Star.png)
+![Kurzgesagt-Baby_Star](Unthemed/Kurzgesagt/Kurzgesagt-Baby_Star.png)
 
 **Tags:** `Kurzgesagt` `Black Hole_1`
 
-![Kurzgesagt-Black Hole_1](/home/willow/wallpapers/Unthemed/Kurzgesagt/Kurzgesagt-Black Hole_1.png)
+![Kurzgesagt-Black Hole_1](Unthemed/Kurzgesagt/Kurzgesagt-Black Hole_1.png)
 
 **Tags:** `Kurzgesagt` `Black Hole_2`
 
-![Kurzgesagt-Black Hole_2](/home/willow/wallpapers/Unthemed/Kurzgesagt/Kurzgesagt-Black Hole_2.png)
+![Kurzgesagt-Black Hole_2](Unthemed/Kurzgesagt/Kurzgesagt-Black Hole_2.png)
 
 **Tags:** `Kurzgesagt` `Cloudy Quasar_1`
 
-![Kurzgesagt-Cloudy Quasar_1](/home/willow/wallpapers/Unthemed/Kurzgesagt/Kurzgesagt-Cloudy Quasar_1.png)
+![Kurzgesagt-Cloudy Quasar_1](Unthemed/Kurzgesagt/Kurzgesagt-Cloudy Quasar_1.png)
 
 **Tags:** `Kurzgesagt` `Cloudy Quasar_2`
 
-![Kurzgesagt-Cloudy Quasar_2](/home/willow/wallpapers/Unthemed/Kurzgesagt/Kurzgesagt-Cloudy Quasar_2.png)
+![Kurzgesagt-Cloudy Quasar_2](Unthemed/Kurzgesagt/Kurzgesagt-Cloudy Quasar_2.png)
 
 **Tags:** `Kurzgesagt` `Contemplative Cosmonaut_1`
 
-![Kurzgesagt-Contemplative Cosmonaut_1](/home/willow/wallpapers/Unthemed/Kurzgesagt/Kurzgesagt-Contemplative Cosmonaut_1.png)
+![Kurzgesagt-Contemplative Cosmonaut_1](Unthemed/Kurzgesagt/Kurzgesagt-Contemplative Cosmonaut_1.png)
 
 **Tags:** `Kurzgesagt` `Contemplative Cosmonaut_2`
 
-![Kurzgesagt-Contemplative Cosmonaut_2](/home/willow/wallpapers/Unthemed/Kurzgesagt/Kurzgesagt-Contemplative Cosmonaut_2.png)
+![Kurzgesagt-Contemplative Cosmonaut_2](Unthemed/Kurzgesagt/Kurzgesagt-Contemplative Cosmonaut_2.png)
 
 **Tags:** `Kurzgesagt` `Contemplative Cosmonaut_3`
 
-![Kurzgesagt-Contemplative Cosmonaut_3](/home/willow/wallpapers/Unthemed/Kurzgesagt/Kurzgesagt-Contemplative Cosmonaut_3.png)
+![Kurzgesagt-Contemplative Cosmonaut_3](Unthemed/Kurzgesagt/Kurzgesagt-Contemplative Cosmonaut_3.png)
 
 **Tags:** `Kurzgesagt` `Contemplative Cosmonaut_4`
 
-![Kurzgesagt-Contemplative Cosmonaut_4](/home/willow/wallpapers/Unthemed/Kurzgesagt/Kurzgesagt-Contemplative Cosmonaut_4.png)
+![Kurzgesagt-Contemplative Cosmonaut_4](Unthemed/Kurzgesagt/Kurzgesagt-Contemplative Cosmonaut_4.png)
 
 **Tags:** `Kurzgesagt` `Cosmic_Islands`
 
-![Kurzgesagt-Cosmic_Islands](/home/willow/wallpapers/Unthemed/Kurzgesagt/Kurzgesagt-Cosmic_Islands.png)
+![Kurzgesagt-Cosmic_Islands](Unthemed/Kurzgesagt/Kurzgesagt-Cosmic_Islands.png)
 
 **Tags:** `Kurzgesagt` `Fleet`
 
-![Kurzgesagt-Fleet](/home/willow/wallpapers/Unthemed/Kurzgesagt/Kurzgesagt-Fleet.png)
+![Kurzgesagt-Fleet](Unthemed/Kurzgesagt/Kurzgesagt-Fleet.png)
 
 **Tags:** `Kurzgesagt` `Galaxies`
 
-![Kurzgesagt-Galaxies](/home/willow/wallpapers/Unthemed/Kurzgesagt/Kurzgesagt-Galaxies.png)
+![Kurzgesagt-Galaxies](Unthemed/Kurzgesagt/Kurzgesagt-Galaxies.png)
 
 **Tags:** `Kurzgesagt` `Galaxy_1`
 
-![Kurzgesagt-Galaxy_1](/home/willow/wallpapers/Unthemed/Kurzgesagt/Kurzgesagt-Galaxy_1.png)
+![Kurzgesagt-Galaxy_1](Unthemed/Kurzgesagt/Kurzgesagt-Galaxy_1.png)
 
 **Tags:** `Kurzgesagt` `Galaxy_2`
 
-![Kurzgesagt-Galaxy_2](/home/willow/wallpapers/Unthemed/Kurzgesagt/Kurzgesagt-Galaxy_2.png)
+![Kurzgesagt-Galaxy_2](Unthemed/Kurzgesagt/Kurzgesagt-Galaxy_2.png)
 
 **Tags:** `Kurzgesagt` `Galaxy_3`
 
-![Kurzgesagt-Galaxy_3](/home/willow/wallpapers/Unthemed/Kurzgesagt/Kurzgesagt-Galaxy_3.png)
+![Kurzgesagt-Galaxy_3](Unthemed/Kurzgesagt/Kurzgesagt-Galaxy_3.png)
 
 **Tags:** `Kurzgesagt` `Mars`
 
-![Kurzgesagt-Mars](/home/willow/wallpapers/Unthemed/Kurzgesagt/Kurzgesagt-Mars.png)
+![Kurzgesagt-Mars](Unthemed/Kurzgesagt/Kurzgesagt-Mars.png)
 
 **Tags:** `Kurzgesagt` `On A Moon`
 
-![Kurzgesagt-On A Moon](/home/willow/wallpapers/Unthemed/Kurzgesagt/Kurzgesagt-On A Moon.png)
+![Kurzgesagt-On A Moon](Unthemed/Kurzgesagt/Kurzgesagt-On A Moon.png)
 
 **Tags:** `Kurzgesagt` `Ringed_Earth`
 
-![Kurzgesagt-Ringed_Earth](/home/willow/wallpapers/Unthemed/Kurzgesagt/Kurzgesagt-Ringed_Earth.png)
+![Kurzgesagt-Ringed_Earth](Unthemed/Kurzgesagt/Kurzgesagt-Ringed_Earth.png)
 
 **Tags:** `Kurzgesagt` `Satellite over Earth`
 
-![Kurzgesagt-Satellite over Earth](/home/willow/wallpapers/Unthemed/Kurzgesagt/Kurzgesagt-Satellite over Earth.png)
+![Kurzgesagt-Satellite over Earth](Unthemed/Kurzgesagt/Kurzgesagt-Satellite over Earth.png)
 
 **Tags:** `Kurzgesagt` `Solar System`
 
-![Kurzgesagt-Solar System](/home/willow/wallpapers/Unthemed/Kurzgesagt/Kurzgesagt-Solar System.png)
+![Kurzgesagt-Solar System](Unthemed/Kurzgesagt/Kurzgesagt-Solar System.png)
 
 **Tags:** `Kurzgesagt` `Stars`
 
-![Kurzgesagt-Stars](/home/willow/wallpapers/Unthemed/Kurzgesagt/Kurzgesagt-Stars.png)
+![Kurzgesagt-Stars](Unthemed/Kurzgesagt/Kurzgesagt-Stars.png)
 
 **Tags:** `Kurzgesagt` `Stellar Phenomenon`
 
-![Kurzgesagt-Stellar Phenomenon](/home/willow/wallpapers/Unthemed/Kurzgesagt/Kurzgesagt-Stellar Phenomenon.png)
+![Kurzgesagt-Stellar Phenomenon](Unthemed/Kurzgesagt/Kurzgesagt-Stellar Phenomenon.png)
 
 **Tags:** `Kurzgesagt` `Unknown Lifeform`
 
-![Kurzgesagt-Unknown Lifeform](/home/willow/wallpapers/Unthemed/Kurzgesagt/Kurzgesagt-Unknown Lifeform.png)
+![Kurzgesagt-Unknown Lifeform](Unthemed/Kurzgesagt/Kurzgesagt-Unknown Lifeform.png)
 
 </details>
 
@@ -616,7 +616,7 @@ Inspired by [flick0](https://github.com/flick0/kabegami)
 
 **Tags:** `map`
 
-![map](/home/willow/wallpapers/Stardew Valley/map.png)
+![map](Stardew Valley/map.png)
 
 </details>
 
