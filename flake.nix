@@ -1,48 +1,23 @@
 {
-  description = ''
-    Reproducible and high quality Catppuccin wallpapers.
-  '';
-
   inputs = {
-    nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
-    systems.url = "github:nix-systems/default";
+    nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
+    flake-utils.url = "github:numtide/flake-utils";
   };
 
-  outputs = {
-    self,
-    nixpkgs,
-    systems,
-  }: let
-    inherit (nixpkgs) lib;
+  outputs = inputs@{ self, ... }:
+    with inputs;
+    flake-utils.lib.eachDefaultSystem (system:
+    let pkgs = import nixpkgs { inherit system; };
+    in {
+      # packages = forAllSystems (system: {
+      #   default = packages.${system}.callPackage ./nix {};
+      # });
+      packages.default = pkgs.callPackage ./nix { };
 
-    genSystems = lib.genAttrs (import systems);
-    pkgsFor = nixpkgs.legacyPackages;
-    version = self.shortRev or "dirty";
-  in {
-    overlays.default = _: prev: let
-      callWallpaper = style:
-        prev.callPackage ./nix/builder.nix {
-          inherit style version;
-        };
-    in rec {
-      # Complete repository: larger and more varied collection.
-      # Naturally, means longer build times.
-      full = wallppuccin;
-      wallppuccin = callWallpaper null;
+      # devShells = forAllSystems (system: {
+      #   default = pkgsForEach.${system}.callPackage ./nix/shell.nix {};
+      # });
 
-      # Call individual collections by category.
-      images = callWallpaper "images";
-      pixel = callWallpaper "pixel";
-    };
-
-    # Generate package outputs from available overlay packages.
-    packages = genSystems (system:
-      (self.overlays.default null pkgsFor.${system})
-      // {
-        default = self.packages.${system}.wallppuccin;
-      });
-
-
-    formatter = genSystems (system: pkgsFor.${system}.alejandra);
-  };
+      # nixosModules.default = import ./nix/module.nix inputs;
+    });
 }
