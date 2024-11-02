@@ -47,6 +47,7 @@ def create_readme(directory):
 
     # Get top-level directories
     top_level_dirs = [d for d in os.listdir(directory) if os.path.isdir(os.path.join(directory, d))]
+    print(top_level_dirs)
 
     for top_level_dir in top_level_dirs:
         top_level_path = os.path.join(directory, top_level_dir)
